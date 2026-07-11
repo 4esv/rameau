@@ -40,6 +40,13 @@ class TestParseRN:
     def test_garbage(self):
         assert parse_rn("") == (None, None)
 
+    def test_placeholder_echo_is_dropped(self):
+        text = "<Roman numerals separated by single spaces>\ncadence: IAC\nI V65 I"
+        assert parse_rn(text) == (["I", "V65", "I"], "IAC")
+
+    def test_only_placeholder(self):
+        assert parse_rn("<Roman numerals separated by single spaces>") == (None, None)
+
 
 class TestParseKey:
     def test_plain(self):

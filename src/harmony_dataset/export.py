@@ -197,6 +197,25 @@ Metrics: `exact` (Roman numerals **and** cadence correct — the headline number
 `tonic_acc`, `mode_acc`. The zero-shot prompts are versioned in
 `eval/prompts.py`; parsing rules are documented in `eval/README.md`.
 
+## Baseline results (small-sample probe)
+
+`qwen3:8b` via ollama, thinking disabled, temperature 0, prompt v1, first 60
+test records per config:
+
+| config | exact | chord_acc | cadence_acc |
+|---|---|---|---|
+| `symbol_to_rn` | 0.083 | 0.295 | 0.550 |
+| `notes_to_rn` | 0.000 | 0.116 | 0.117 |
+| `pcset_to_rn` | 0.000 | 0.041 | 0.250 |
+| `key_id` | 0.233 | tonic 0.400 | mode 0.583 |
+
+`llama3.2:3b` on `symbol_to_rn`: exact 0.000, chord_acc 0.137.
+
+The difficulty ladder behaves as designed — chord accuracy falls ~30% -> 12% -> 4%
+as the answer is progressively hidden, and an 8B model cannot reliably produce a
+single fully correct analysis outside the lookup-flavored config. Frontier-model
+results welcome; the harness in `eval/` reproduces these numbers.
+
 ## Reproduce
 
 The full generation pipeline ships in this repo (`src/harmony_dataset/`):

@@ -50,6 +50,8 @@ def parse_rn(text: str) -> tuple[list[str] | None, str | None]:
     """Extract (labels, cadence) from a model response."""
     text = normalize(text)
     lines = [ln.strip().strip("`") for ln in text.splitlines() if ln.strip()]
+    # drop echoed format placeholders like "<Roman numerals ...>"
+    lines = [ln for ln in lines if not (ln.startswith("<") and ln.endswith(">"))]
     if not lines:
         return None, None
 
@@ -72,6 +74,11 @@ def parse_rn(text: str) -> tuple[list[str] | None, str | None]:
                 if lines[j]:
                     labels_line = lines[j]
                     break
+            else:  # nothing above the cadence line: fall back to below
+                for j in range(cad_idx + 1, len(lines)):
+                    if lines[j]:
+                        labels_line = lines[j]
+                        break
     else:
         labels_line = lines[-1]
 
