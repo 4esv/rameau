@@ -1,0 +1,206 @@
+{
+  "gpt-oss-120b": {
+    "openrouter_id": "openai/gpt-oss-120b",
+    "symbol_to_rn": {
+      "n": 943,
+      "exact": 0.2556,
+      "labels_exact": 0.5514,
+      "chord_acc": 0.8855,
+      "cadence_acc": 0.4337,
+      "parse_failures": 1
+    },
+    "notes_to_rn": {
+      "n": 943,
+      "exact": 0.1548,
+      "labels_exact": 0.3521,
+      "chord_acc": 0.7777,
+      "cadence_acc": 0.4136,
+      "parse_failures": 4
+    },
+    "pcset_to_rn": {
+      "n": 943,
+      "exact": 0.1463,
+      "labels_exact": 0.281,
+      "chord_acc": 0.7243,
+      "cadence_acc": 0.4168,
+      "parse_failures": 7
+    },
+    "key_id": {
+      "n": 815,
+      "exact": 0.7779,
+      "tonic_acc": 0.7902,
+      "mode_acc": 0.8356,
+      "parse_failures": 32
+    }
+  },
+  "claude-sonnet-5": {
+    "openrouter_id": "anthropic/claude-sonnet-5",
+    "symbol_to_rn": {
+      "n": 943,
+      "exact": 0.2195,
+      "labels_exact": 0.5525,
+      "chord_acc": 0.8627,
+      "cadence_acc": 0.4093,
+      "parse_failures": 0
+    },
+    "notes_to_rn": {
+      "n": 943,
+      "exact": 0.0657,
+      "labels_exact": 0.2195,
+      "chord_acc": 0.688,
+      "cadence_acc": 0.2651,
+      "parse_failures": 0
+    },
+    "pcset_to_rn": {
+      "n": 943,
+      "exact": 0.1569,
+      "labels_exact": 0.3287,
+      "chord_acc": 0.7324,
+      "cadence_acc": 0.3828,
+      "parse_failures": 0
+    },
+    "key_id": {
+      "n": 815,
+      "exact": 0.8233,
+      "tonic_acc": 0.8405,
+      "mode_acc": 0.9288,
+      "parse_failures": 0
+    }
+  },
+  "qwen3-235b-a22b-2507": {
+    "openrouter_id": "qwen/qwen3-235b-a22b-2507",
+    "symbol_to_rn": {
+      "n": 943,
+      "exact": 0.193,
+      "labels_exact": 0.3404,
+      "chord_acc": 0.7393,
+      "cadence_acc": 0.5048,
+      "parse_failures": 0
+    },
+    "notes_to_rn": {
+      "n": 943,
+      "exact": 0.0159,
+      "labels_exact": 0.035,
+      "chord_acc": 0.3797,
+      "cadence_acc": 0.4274,
+      "parse_failures": 0
+    },
+    "pcset_to_rn": {
+      "n": 943,
+      "exact": 0.0021,
+      "labels_exact": 0.0053,
+      "chord_acc": 0.1631,
+      "cadence_acc": 0.3001,
+      "parse_failures": 0
+    },
+    "key_id": {
+      "n": 815,
+      "exact": 0.719,
+      "tonic_acc": 0.8049,
+      "mode_acc": 0.8098,
+      "parse_failures": 0
+    }
+  },
+  "deepseek-v3.2": {
+    "openrouter_id": "deepseek/deepseek-v3.2",
+    "symbol_to_rn": {
+      "n": 943,
+      "exact": 0.1506,
+      "labels_exact": 0.2566,
+      "chord_acc": 0.6344,
+      "cadence_acc": 0.5186,
+      "parse_failures": 0
+    },
+    "notes_to_rn": {
+      "n": 943,
+      "exact": 0.0053,
+      "labels_exact": 0.0117,
+      "chord_acc": 0.3047,
+      "cadence_acc": 0.3945,
+      "parse_failures": 0
+    },
+    "pcset_to_rn": {
+      "n": 943,
+      "exact": 0.0011,
+      "labels_exact": 0.0021,
+      "chord_acc": 0.1505,
+      "cadence_acc": 0.3489,
+      "parse_failures": 0
+    },
+    "key_id": {
+      "n": 815,
+      "exact": 0.6613,
+      "tonic_acc": 0.7963,
+      "mode_acc": 0.7644,
+      "parse_failures": 0
+    }
+  },
+  "kimi-k2.5": {
+    "openrouter_id": "moonshotai/kimi-k2.5",
+    "symbol_to_rn": {
+      "n": 943,
+      "exact": 0.1421,
+      "labels_exact": 0.2238,
+      "chord_acc": 0.5616,
+      "cadence_acc": 0.5504,
+      "parse_failures": 156
+    },
+    "notes_to_rn": {
+      "n": 943,
+      "exact": 0.0074,
+      "labels_exact": 0.0265,
+      "chord_acc": 0.3989,
+      "cadence_acc": 0.5196,
+      "parse_failures": 28
+    },
+    "pcset_to_rn": {
+      "n": 943,
+      "exact": 0.0095,
+      "labels_exact": 0.0148,
+      "chord_acc": 0.2048,
+      "cadence_acc": 0.2545,
+      "parse_failures": 141
+    },
+    "key_id": {
+      "n": 815,
+      "exact": 0.7877,
+      "tonic_acc": 0.8429,
+      "mode_acc": 0.8393,
+      "parse_failures": 26
+    }
+  },
+  "llama-3.3-70b": {
+    "openrouter_id": "meta-llama/llama-3.3-70b-instruct",
+    "symbol_to_rn": {
+      "n": 943,
+      "exact": 0.0371,
+      "labels_exact": 0.0657,
+      "chord_acc": 0.4662,
+      "cadence_acc": 0.5313,
+      "parse_failures": 0
+    },
+    "notes_to_rn": {
+      "n": 943,
+      "exact": 0.0042,
+      "labels_exact": 0.0042,
+      "chord_acc": 0.3075,
+      "cadence_acc": 0.4836,
+      "parse_failures": 0
+    },
+    "pcset_to_rn": {
+      "n": 943,
+      "exact": 0.0,
+      "labels_exact": 0.0011,
+      "chord_acc": 0.1937,
+      "cadence_acc": 0.3945,
+      "parse_failures": 0
+    },
+    "key_id": {
+      "n": 815,
+      "exact": 0.4712,
+      "tonic_acc": 0.6368,
+      "mode_acc": 0.6724,
+      "parse_failures": 0
+    }
+  }
+}

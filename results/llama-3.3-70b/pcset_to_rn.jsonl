@@ -1,0 +1,943 @@
+{"shape_id": "014e86bb35", "key": "A major", "prediction": "vi V7 IV7 ii7 vii.o \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "Bb major", "prediction": "V7 | I | i64 | IV | vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "C major", "prediction": "I | iv7 | ii7 | V7 | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "D major", "prediction": "ii7 V7 I6 iv7 V \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "F major", "prediction": "I | V7 | V6 | I6 | iv \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "G major", "prediction": "I64 V7 vi iv I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "A minor", "prediction": "i vi V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "Bb minor", "prediction": "viio6 iv6 i64 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "C minor", "prediction": "i vi IV vii7/o \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "D minor", "prediction": "i vi7 V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "Eb minor", "prediction": "i vi VII V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "F minor", "prediction": "i viio6 V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "G minor", "prediction": "i vi VII V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Ab major", "prediction": "viio6 V7 I64 IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "B major", "prediction": "I | V7 | vii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "C major", "prediction": "I | iv | V7 | vi\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Db major", "prediction": "ii7 V7 I vi7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "E major", "prediction": "I64 V7 vii7 V \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Eb major", "prediction": "iii vi7 I iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "F# major", "prediction": "V7 | viio6 | iii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "A minor", "prediction": "i viio7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "B minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "D minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "E minor", "prediction": "i viio6 iv i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "F# minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "G minor", "prediction": "i64 V7 i vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "Bb major", "prediction": "V7 ii7 viio6 iii7 IV7 V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "C major", "prediction": "I V7 viio6 iv V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "D major", "prediction": "ii7 V7 I6 iv6 vii.o7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "Eb major", "prediction": "I7 | V7 | viio6 | I6 | IV | I7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "F major", "prediction": "I64 V7 iv6 viio6 I6 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "G major", "prediction": "I64 V7 iv6 viio6 iii65 I64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "A minor", "prediction": "vi V7 iv i VII7 V i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "B minor", "prediction": "i viio6 IV7 V7 i M7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "C# minor", "prediction": "i viio6 IV VII vi7/v V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "D minor", "prediction": "i vi7 V7 i viio6 iv7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "E minor", "prediction": "i vii7 iv vi V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "F# minor", "prediction": "viio6 iv7 v7 i vi7/M7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "A minor", "prediction": "i vi VII V i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "Bb minor", "prediction": "i vi7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "C minor", "prediction": "i viio V7 i i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "Eb minor", "prediction": "i viio6 V7 i i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "F minor", "prediction": "i viio6 V7 i i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "G minor", "prediction": "i vi VII V i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "G# minor", "prediction": "i viio6 V7 i iv \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Ab major", "prediction": "I6 iv7 V7 viio6 iii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "B major", "prediction": "I | vii7 | iii | IV | vii7/o \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Bb major", "prediction": "V7 | viio6 | I6 | ii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "C major", "prediction": "I V viio6 IV vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Db major", "prediction": "ii7 V7 I6 viio6 iii64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Eb major", "prediction": "iii vi V I vii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "F# major", "prediction": "V7 | I | vii", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "A major", "prediction": "vi V7 iv I vi\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "Bb major", "prediction": "V7 | vii.o6 | I6 | IV | V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "C major", "prediction": "I | V | vii7 | iii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "D major", "prediction": "ii7 V7 I7 viio6 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "F major", "prediction": "I | V7 | viio6 | iv | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "G major", "prediction": "I | V7 | viio6 | iii64 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "A minor", "prediction": "i viio7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "B minor", "prediction": "i7 V7 viio6 iv7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "Bb minor", "prediction": "i64 viio6 iv V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "C# minor", "prediction": "i viio7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "Eb minor", "prediction": "i viio7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "F# minor", "prediction": "i viio6 iv ii7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "G# minor", "prediction": "i viio6 V7 iv ii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "A major", "prediction": "V7 I64 vii%7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "Ab major", "prediction": "vi V7 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "B major", "prediction": "I6 iv7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "C major", "prediction": "I | V7 | vi\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "Db major", "prediction": "ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "E major", "prediction": "V7 iio6 IV \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "F# major", "prediction": "V7 | vii7 | V \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "A major", "prediction": "vi V VII vii7 iv V7 ii7 vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "B major", "prediction": "I | vii7 | V7 | vii7/vi | vii7/V | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "C major", "prediction": "I V7 viio6 ii7 V7 V7/iii viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "D major", "prediction": "ii7 V7 i64 iv7 V7 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "E major", "prediction": "I | vii7 | iii7 | IV7 | I | ii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "G major", "prediction": "I64 V7 iv6 viio6 I64 V7 viio64 I64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "A major", "prediction": "V7 | vi | vi7 | iii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "Bb major", "prediction": "V7 | viio6 | vi | III7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "C major", "prediction": "I | V | vii7 | viio6 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "D major", "prediction": "ii7 V7 I6 iv6 vii65 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "F major", "prediction": "I | V7 | V7/vi | vi | IV\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "G major", "prediction": "I64 V vi ii7 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "A major", "prediction": "I6 V7 viio7 V7 iii7 vii7 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "B major", "prediction": "I | vii7 | iii7 | vii7 | V7 | vii7 | v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "C major", "prediction": "I V viio6 V I V7 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "D major", "prediction": "ii7 V7 I6 iv7 V7 i6 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "E major", "prediction": "I | vii7 | IV | vii7 | iii64 | I | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "F# major", "prediction": "I | vii7 | V7 | vii7 | iv7 | I | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "G major", "prediction": "I V viio6 V IV I vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "A minor", "prediction": "i vi VII V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "Bb minor", "prediction": "i vi VII V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "C minor", "prediction": "i vi VII V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "D minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "F minor", "prediction": "i vi VII V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "G minor", "prediction": "i64 V7 i6 iv6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "A minor", "prediction": "vi V7 iv i iv6 V \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "B minor", "prediction": "i viio6 V7 i vi7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "C# minor", "prediction": "i vi7 V7 iv io6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "E minor", "prediction": "i64 viio6 iv7 i64 vii7/v i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "Eb minor", "prediction": "vi7 V7 i64 IV7 viio6 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "F# minor", "prediction": "viio6 iv6 V7 i6 ii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "G# minor", "prediction": "i64 viio6 V7 i64 iv7 V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Ab major", "prediction": "viio6 V7 IV6 iv6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Bb major", "prediction": "iii vi VII/V V I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "C major", "prediction": "iv V vii°7 I vii°7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Db major", "prediction": "I | vii7 | vii7 | V7 | iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Eb major", "prediction": "V7 | viiio6 | viiio6 | I | iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "F major", "prediction": "IV V vii° I vii°6 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "A major", "prediction": "V7 | vii7 | vii7 | iii7 | VII7 | V7\ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "B major", "prediction": "I | vii7 | vii7 | IV | ii7/V | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "C major", "prediction": "I V V vi V7 iv I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "D major", "prediction": "ii7 V7 I viio6 iv7 V7 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "E major", "prediction": "I | vii7 | vii7 | iii | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "F# major", "prediction": "I | vii7 | vii7 | V | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "G major", "prediction": "I | V | V | iv | vii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "A minor", "prediction": "vi  V7  iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "Bb minor", "prediction": "vii7 vi7/i IV \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "C# minor", "prediction": "i64 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "Eb minor", "prediction": "vi7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "F minor", "prediction": "i vi7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "F# minor", "prediction": "viio6 iv7 V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "G# minor", "prediction": "i64 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "A major", "prediction": "V7 | viiio6 | ii7 | iii7 | VI7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "B major", "prediction": "I | vii7 | ii7 | ii6 | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "C major", "prediction": "I V viio6 vi7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "D major", "prediction": "ii7 V7 I6 iv7 iv7 viio6 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "Db major", "prediction": "I | vii7 | IV7 | iv7 | I6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "E major", "prediction": "I | vii7 | iii7 | III7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "F# major", "prediction": "V7 | iv | vii7 | vi | III7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "A minor", "prediction": "vi V7 iv6 vi\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "Bb minor", "prediction": "viio6 iv7 i64 viio6\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "C minor", "prediction": "i viio7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "C# minor", "prediction": "i viio7 iv i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "Eb minor", "prediction": "iii vi7 V7 iii\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "F minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "G# minor", "prediction": "i64 viio6 V7 i64\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "A minor", "prediction": "vi V7 vi\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "B minor", "prediction": "i vi7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "C minor", "prediction": "i viio7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "D minor", "prediction": "i vi7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "E minor", "prediction": "i vi7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "G minor", "prediction": "i64 vi7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "A minor", "prediction": "vi V i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "B minor", "prediction": "i vi V7 iv%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "Bb minor", "prediction": "i viio V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "C# minor", "prediction": "i viio6 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "Eb minor", "prediction": "i viio6 iv7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "F# minor", "prediction": "viio6 V7 i7 iv7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "G# minor", "prediction": "i64 vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "A major", "prediction": "ii7 V7 I6 vi7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "B major", "prediction": "iii vi7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "C major", "prediction": "iv V7 I vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "D major", "prediction": "I | vii7 | IV | v \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "Db major", "prediction": "I64 V7 viio6 IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "E major", "prediction": "I | vii7 | iii7 | V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "F# major", "prediction": "V7 | viio6 | ii7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Ab major", "prediction": "I V7 vi io6 viio7 i64 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "B major", "prediction": "I | vii7 | V7 | vii7/vi | iii6 | IV6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Bb major", "prediction": "I6 V7 viio6 iv6 I64 IM7 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "C major", "prediction": "I V viio6 iv vii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Db major", "prediction": "I | viio6 | iii7 | iv7 | ii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Eb major", "prediction": "I6 V7 vi io VI VII I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "F# major", "prediction": "V7 | vii%7 | iii | ii7 | V | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "Ab major", "prediction": "viio6 V7/vi vi7 V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "Bb major", "prediction": "I | I | ii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "C major", "prediction": "V7 | V7 | vii7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "Eb major", "prediction": "I | I | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "F major", "prediction": "V7 | V7 | vii7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "G major", "prediction": "I | I | IV | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "A minor", "prediction": "vi  i  V7  VII7  iii9/v  V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "Bb minor", "prediction": "i vi7 V7 iv7 VII7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "C minor", "prediction": "i vi VII V iv7 V7/i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "D minor", "prediction": "i vi7 V7 iv7 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "F minor", "prediction": "i viio6 V7 iv7 i64 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "G minor", "prediction": "i viio6 IV i VI7 iv\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Ab major", "prediction": "I64 V7 vi io7 iv64 ii7 I64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "B major", "prediction": "I | V7 | vii7 | iv7 | I | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Bb major", "prediction": "V7 | viio6 | V7 | I6 | V7 | vi6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "C major", "prediction": "I V7 vi io6 V7 V7/vi I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Db major", "prediction": "I | V7 | vii7 | iv7 | I | viio6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Eb major", "prediction": "iii vi7 I V7 iii vi I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "F# major", "prediction": "I | V7 | iii | vi7 | I | V | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "A major", "prediction": "V7 | vii7 | iii7 | V7 | I64 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "Ab major", "prediction": "I | viio6 | iii7 | I | iv7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "B major", "prediction": "I | vii7 | ii7 | vii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "C major", "prediction": "I V viio6 vii7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "Db major", "prediction": "ii7 V7 I64 viio6 I DCML-style does not apply directly here, as it is more commonly used for minor keys and altered dominants. However, sticking to standard Roman numeral analysis for the given key of Db major: \nii7 V7 I64 viio6 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "E major", "prediction": "I | vii7 | iii | I | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "F# major", "prediction": "V7 | vii7 | iii6 | V7 | V7/vi | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "A major", "prediction": "iii vi VII V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "B major", "prediction": "iii vi IV V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "C major", "prediction": "iv V I vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "D major", "prediction": "I64 V viio6 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "E major", "prediction": "I | vii7 | iii | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "F# major", "prediction": "V7 | vi | vii° | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "G major", "prediction": "V7 i6 IV7 viio64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "Ab major", "prediction": "I64 V viio6 iv \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "B major", "prediction": "I | V7 | vii7 | iii%\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "C major", "prediction": "I | vii7 | iii | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "Db major", "prediction": "I | vii7 | iii | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "E major", "prediction": "I | vii7 | iii | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "Eb major", "prediction": "iii vi I V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "F# major", "prediction": "V7 | vi | iv | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "A minor", "prediction": "vi V VII viio7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "B minor", "prediction": "i viio6 IV7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "C# minor", "prediction": "i vi VII V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "E minor", "prediction": "i vii°7 iv ii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "Eb minor", "prediction": "i vi V7 iv7 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "F# minor", "prediction": "viio6 iv6 V7 i64 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "G# minor", "prediction": "i vi V7 IV7 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "A minor", "prediction": "vi V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "Bb minor", "prediction": "i vi7 V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "C minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "D minor", "prediction": "i vi7 iv i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "Eb minor", "prediction": "viio6 iv7 v7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "F minor", "prediction": "i vi7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "G minor", "prediction": "i vi7 IV V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "A minor", "prediction": "vi V7 iv i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "Bb minor", "prediction": "i viio6 iv7 V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "C minor", "prediction": "i viio7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "D minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "F minor", "prediction": "i viio7 iv i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "G minor", "prediction": "i64 viio6 IV V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "A minor", "prediction": "vi V7 iv ii7/v vi\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "B minor", "prediction": "i viio6 IV7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "Bb minor", "prediction": "vii°7 i7 iv6 IM7 vii°7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "C# minor", "prediction": "i viio6 IV7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "Eb minor", "prediction": "i viio6 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "F# minor", "prediction": "viio6 iv7 v7 i7 viio6\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "G# minor", "prediction": "i64 viio6 iv7 v7 i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "Bb major", "prediction": "V7 | iv | V7 | I7 | I6 | viio6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "C major", "prediction": "I V7 I iv7 viio6 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "D major", "prediction": "ii7 V7 I ii7 iii7 vi7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "Eb major", "prediction": "I V7 I viio7 vii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "F major", "prediction": "I | vii7 | I | V7 | V7 | iv | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "G major", "prediction": "I | vii7 | I | IV7 | iv7 | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "A minor", "prediction": "i vi V7/vi iii6 iv i vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "B minor", "prediction": "i vi V7 IV vi ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "Bb minor", "prediction": "i vi7 V7 iv VII \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "C# minor", "prediction": "i viio6 i7 IV7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "Eb minor", "prediction": "i vi i VII6 iv i iv6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "F# minor", "prediction": "i vi V7 iv io VI \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "G# minor", "prediction": "i64 vi7 V7 i ii7 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "A minor", "prediction": "i vi vi vi IV i V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "Bb minor", "prediction": "viio6 vi7 vi7 iv6 V7 i64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "C minor", "prediction": "i vi io VI VII vii° o \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "Eb minor", "prediction": "i viio6 viio6 iv6 i vi7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "F minor", "prediction": "i viio6 viio6 V7 i iv6 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "G minor", "prediction": "i vi VII vi iv iio VI i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "G# minor", "prediction": "i64 vi7 vi7 iii7 v7 i64 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Ab major", "prediction": "I vi V7 I viio7 iv7 ii7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "B major", "prediction": "I | vii7 | I | iv | iv7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Bb major", "prediction": "V7 | vi | V7 | I | I7 | iv | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "C major", "prediction": "I V7 I viio6 vii7 V7 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Db major", "prediction": "ii7 vi7 ii7 IV7 iv7/V V7 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Eb major", "prediction": "I V7 I viio6 vii7/o VI7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "F# major", "prediction": "I | vii7 | I | IV | iv7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "A major", "prediction": "V7 | vii7 | V7 | iii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "B major", "prediction": "I | V7 | vi | iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "C major", "prediction": "I | V7 | vii°7 | vii°7/V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "D major", "prediction": "ii7 V7 I viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "Db major", "prediction": "ii7 V7 I viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "E major", "prediction": "I64 V7 viio6 iii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "F# major", "prediction": "V7 | viio6 | V7 | iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "A major", "prediction": "ii7 V7 I6 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "C major", "prediction": "iv V7 vii7 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "D major", "prediction": "I | vii7 | IV | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "E major", "prediction": "I | ii7 | viio6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "F major", "prediction": "V | vii7 | I | V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "G major", "prediction": "V7 i64 viio6 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "A minor", "prediction": "vi V VII vii7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "C minor", "prediction": "i vi VII7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "D minor", "prediction": "i vi7 V7 iv7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "E minor", "prediction": "iv7 V7 viio6 i64 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "F minor", "prediction": "i viio6 V7 IV7 v\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "G minor", "prediction": "i vi VII V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "A major", "prediction": "V7 iio6 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "B major", "prediction": "I | V7 | vii7/o\ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "C major", "prediction": "I | V | vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "D major", "prediction": "ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "E major", "prediction": "I | vii7 | iii \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "G major", "prediction": "I64 V7 vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "A major", "prediction": "V7 | vii7 | iii7 | iiio7 | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "B major", "prediction": "V7 | vii7 | iio6 | ii7 | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "C major", "prediction": "I V viio6 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "D major", "prediction": "ii7 V7 I6 viio6 V7 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "E major", "prediction": "I64 V viio6 vii7 V7 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "G major", "prediction": "I | vii7 | IV | IV7 | I6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "A major", "prediction": "V7 | vii7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "Bb major", "prediction": "V7 | I | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "C major", "prediction": "I | vii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "D major", "prediction": "ii7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "F major", "prediction": "I | V7 | vi\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "G major", "prediction": "I | V7 | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "A minor", "prediction": "vi V i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "Bb minor", "prediction": "viio6 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "C# minor", "prediction": "i viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "Eb minor", "prediction": "iii vi7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "F minor", "prediction": "i viio6 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "F# minor", "prediction": "viio6 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "G# minor", "prediction": "i64 viio6 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "A minor", "prediction": "i vi V7 iv i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "Bb minor", "prediction": "viio6 iv7 i64 v7 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "C minor", "prediction": "i viio6 iv7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "D minor", "prediction": "i vii°7 iv7 v7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "F minor", "prediction": "i vi VII7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "G minor", "prediction": "i vi VII7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "A minor", "prediction": "vi V7 iv ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "Bb minor", "prediction": "i vi7 IV7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "C minor", "prediction": "i vi7 V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "Eb minor", "prediction": "i vi7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "F minor", "prediction": "i vi V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "G minor", "prediction": "i64 vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "G# minor", "prediction": "i vi IV7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "A minor", "prediction": "vi  i  iii  iiio  V  I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "Bb minor", "prediction": "viio6 V7 i64 iv6 v VII \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "C minor", "prediction": "i viio6 IV iv7 viio6 i6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "D minor", "prediction": "i vi7 V7/vi viio6 iv7 v7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "Eb minor", "prediction": "iii vi VII V viio i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "F minor", "prediction": "i viio6 IV7 V7 i64 v", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "G minor", "prediction": "i64 vi7 V7 iv6 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "A major", "prediction": "V7 iv7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "Bb major", "prediction": "V7 | I64 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "C major", "prediction": "I | V7 | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "D major", "prediction": "ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "F major", "prediction": "I64 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "G major", "prediction": "I64 V7 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "A major", "prediction": "V7 | vii7 | iii7 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "B major", "prediction": "I | V7 | vii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "C major", "prediction": "I | iv7 | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "D major", "prediction": "ii7 V7 I vii%7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "E major", "prediction": "I | iv7 | viio6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "F# major", "prediction": "V7 | viio6 | i64 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "G major", "prediction": "I | V7 | vi | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "A minor", "prediction": "i vi VII V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "Bb minor", "prediction": "ii7 vi7 iv7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "C minor", "prediction": "iii vi IV iii \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "D minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "F minor", "prediction": "i viio6 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "G minor", "prediction": "i64 vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "Ab major", "prediction": "vi V7 IV I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "B major", "prediction": "I | V7 | vii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "C major", "prediction": "I | V7 | vii7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "Db major", "prediction": "ii7 V7 I64 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "E major", "prediction": "I64 V7 vii7 V\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "Eb major", "prediction": "iii vi7 I64 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "F# major", "prediction": "V7 | viio6 | iii7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "A major", "prediction": "V7 | vii7 | iii7 | V7 | I7 | V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "C major", "prediction": "I | vii7 | vi | ii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "D major", "prediction": "ii7 V7 I viio6 iv7 V7 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "E major", "prediction": "I | vii7 | iii | IV7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "F major", "prediction": "I | vii7 | vii7/vi | V7 | iv6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "G major", "prediction": "I64 V viio6 IV7 ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "A major", "prediction": "vi V7 iv6 vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "Bb major", "prediction": "V7 | vii.o | I6/4 | vii.o \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "C major", "prediction": "I V viio6 V \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "D major", "prediction": "ii7 V7 i64 V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "F major", "prediction": "I | V7 | iv7 | V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "G major", "prediction": "I | V7 | viio6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "A minor", "prediction": "vi  iii7  VII7  i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "Bb minor", "prediction": "vii7 vi7 i64 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "C minor", "prediction": "iii vi IV7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "C# minor", "prediction": "viio6 iv7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "Eb minor", "prediction": "i64 viio6 iv7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "F minor", "prediction": "i64 viio6 iv7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "G# minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "A minor", "prediction": "vi7 \ncadence: none", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "B minor", "prediction": "ii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "Bb minor", "prediction": "vii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "C minor", "prediction": "iii7 \ncadence: None", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "C# minor", "prediction": "viio6 \ncadence: NC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "D minor", "prediction": "i64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "E minor", "prediction": "i64 \ncadence: none", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "Eb minor", "prediction": "i64 \ncadence: none", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "F minor", "prediction": "viio6 \ncadence: NC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "F# minor", "prediction": "vii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "G minor", "prediction": "V7 i64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "G# minor", "prediction": "i64 \ncadence: None", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Ab major", "prediction": "vi V V iv VII7 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "B major", "prediction": "I | vii7 | vii7 | IV | ii7 | vii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Bb major", "prediction": "V7 | V7 | V7 | iii7 | viio6 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "C major", "prediction": "I V viio6 V7 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Db major", "prediction": "ii7 V7 I6 iv6 IM7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Eb major", "prediction": "iii vi V7 I viio7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "F# major", "prediction": "V7 | vii7 | vii7 | viio6 | V7 | vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "Ab major", "prediction": "vi V viio7 iv7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "B major", "prediction": "I | V7 | vii7 | ii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "C major", "prediction": "I | viio6 | iii6 | iv7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "Db major", "prediction": "I | vii7 | iii | viio7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "E major", "prediction": "I64 V7 viio6 ii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "Eb major", "prediction": "iii vi I V7 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "F# major", "prediction": "V7 | vii7 | i | IV7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "A minor", "prediction": "vi V7 iv ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "B minor", "prediction": "iii7 V7 i64 vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "D minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "E minor", "prediction": "i viio6 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "F# minor", "prediction": "vii7 v7 VI7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "G minor", "prediction": "i64 vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Ab major", "prediction": "I V7 I I6 iv7 V7 vi7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Bb major", "prediction": "I | viiio | I | IV7 | V7 | I6 | vi | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "C major", "prediction": "I V7 I viio6 IV V7/vi viio6 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Db major", "prediction": "ii7 viio6 ii7 IV7 vii7 iii7 viio6 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Eb major", "prediction": "I | vii7 | I | IV7 | iii | VI7 | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "F major", "prediction": "I | vii7 | I | iv7 | iii | vi7 | IV | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "F# major", "prediction": "I | vii7 | I | V7 | iii | vii7/V | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "A major", "prediction": "vi V viio iv iii vi V V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "B major", "prediction": "I | vii7 | V7 | vii7/vi | vii%7 | vii7 | viio6 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "C major", "prediction": "I V vi iv ii7 V VII I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "D major", "prediction": "ii7 V7 iio6 vii6 IV7 V7 ii7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "Db major", "prediction": "I64 | viio6 | iii7 | vi7 | vi6 | I | IV | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "E major", "prediction": "I | vii7 | iii7 | iv7 | iv6 | I | vi | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "F# major", "prediction": "V7 | viio6 | iii | vii%7 | vii7 | V7 | V6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "A minor", "prediction": "vi  iii7  vi  ii7/i  VI \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "Bb minor", "prediction": "ii7 vi7 V7 i64 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "C minor", "prediction": "iii vi IV7 iii IM7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "C# minor", "prediction": "viio6 iv7 V7 i64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "Eb minor", "prediction": "i64 viio6 i V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "F minor", "prediction": "i viio6 i VII7 V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "G# minor", "prediction": "i64 viio6 iv7 i7/vi i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "A minor", "prediction": "vi V VII vi V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "B minor", "prediction": "i viio6 vi7 v ii7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "C# minor", "prediction": "i viio6 viio64 V7 i M7\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "E minor", "prediction": "i viio6 iv ii7 v7/i IV7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "F# minor", "prediction": "i vi7 V7 i iv7/v V7/i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "G# minor", "prediction": "i64 vi7 V7 i64 iv7/i i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "A minor", "prediction": "vi V i vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "Bb minor", "prediction": "i vi VII7 IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "C# minor", "prediction": "i vi VII7 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "Eb minor", "prediction": "iii vi I7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "F minor", "prediction": "i vi V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "F# minor", "prediction": "i", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "G# minor", "prediction": "i64 vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "A minor", "prediction": "vi V VII viio6 iv7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "B minor", "prediction": "i viio6 IV7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "C minor", "prediction": "i viio6 iv iv7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "D minor", "prediction": "i vi7 V VII viio7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "E minor", "prediction": "i viio6 iv vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "G minor", "prediction": "i viio6 iv iv7 v7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "A minor", "prediction": "vi  i  V7  vi  IV7  V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "B minor", "prediction": "i vi7 V7 i vi7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "C# minor", "prediction": "i vi VII7 V i iv6 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "E minor", "prediction": "i viio6 iv7 i vii7/v V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "Eb minor", "prediction": "iii vi V7 i viio7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "F# minor", "prediction": "i64 vi7 V7 i viio6 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "G# minor", "prediction": "i64 vi7 V7 i viio6 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "A minor", "prediction": "vi V i vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "Bb minor", "prediction": "i vi7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "C minor", "prediction": "i vi7 V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "C# minor", "prediction": "i vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "Eb minor", "prediction": "i vi7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "F minor", "prediction": "i vi VII7 V7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "G# minor", "prediction": "i vi i7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "Bb major", "prediction": "V7 | vii.o | vii.o | iii | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "C major", "prediction": "I | viio6 | viio6 | V | vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "D major", "prediction": "ii7 V7 I6 iv6 vii.o \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "Eb major", "prediction": "iii vi V7 I vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "F major", "prediction": "I | V7 | V7 | vii7 | IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "G major", "prediction": "I | V | V | vii6 | iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "A minor", "prediction": "vi  iii7  V7  vi \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "Bb minor", "prediction": "vii7 vi ib6 v7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "C minor", "prediction": "iii vi VII7 V7 | cadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "C# minor", "prediction": "viio6 iv6 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "Eb minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "F minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "G# minor", "prediction": "i viio6 iv7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "A major", "prediction": "V7 | vii7 | iii6 | iv6 | ii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "B major", "prediction": "I | vii7 | V7 | viiio6 | iii7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "C major", "prediction": "I V vi IV vii° V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "D major", "prediction": "ii7 V7 i64 iv7 viio6 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "Db major", "prediction": "I6 V7 viio6 iv6 I64 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "E major", "prediction": "I64 V7 viio6 iii7 IV7 ii7 I64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "F# major", "prediction": "V7 | vii7 | iii6 | viio6 | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "A major", "prediction": "V7 | viio6 | I6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "Ab major", "prediction": "I | vii7 | iii7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "B major", "prediction": "I | V7 | vii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "C major", "prediction": "I | iv7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "Db major", "prediction": "ii7 V7 I64 ii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "E major", "prediction": "I | iv7 | viio6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "F# major", "prediction": "V7 | iv7 | V7/vi | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "A minor", "prediction": "vi V VII viio6 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "Bb minor", "prediction": "viio6 i6 IV7 v7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "C minor", "prediction": "i vi7 V7 iv ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "D minor", "prediction": "i vi7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "Eb minor", "prediction": "i vi V7 i iv6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "F minor", "prediction": "i vi V7 iv iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "G minor", "prediction": "i64 vi7 V7 iio6 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "A minor", "prediction": "vi  V7  i  iv7  i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "C minor", "prediction": "iii vi7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "D minor", "prediction": "i vi7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "E minor", "prediction": "i64 viio6 V7 i ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "F minor", "prediction": "i64 viio6 i V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "G minor", "prediction": "i64 viio6 V7 i ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "A major", "prediction": "iii vi iv iii vii° iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "B major", "prediction": "iii vi V vi iii IV I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "C major", "prediction": "iv V I vii42 V7 iv \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "D major", "prediction": "I V7 viio6 V7 iio6 iv6 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "E major", "prediction": "I | vii7 | iii | V | viio6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "G major", "prediction": "V7 I viio6 IV7 vii%7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "A major", "prediction": "vi V vii iii iv iv7 V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "B major", "prediction": "I | vii7 | V7 | ii7 | ii6 | I6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "C major", "prediction": "I | iv | vii6 | iii | iii6 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "D major", "prediction": "ii7 V7 I viio6 vi7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "E major", "prediction": "I | vii7 | iii | vi | vi6 | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "G major", "prediction": "I64 V7 viio6 iii iv iv7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Ab major", "prediction": "I6", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "B major", "prediction": "I | vii7 | iii7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Bb major", "prediction": "V7 | vi | IV | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "C major", "prediction": "I V vi IV I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Db major", "prediction": "ii7 V7 I vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Eb major", "prediction": "I | vi7 | iii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "F# major", "prediction": "I7 | vii7 | V7 | I7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "A minor", "prediction": "vi V VII viio7 iv7 vi \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "Bb minor", "prediction": "viio6 V7 i64 iv7 viio6 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "C# minor", "prediction": "i viio6 IV7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "Eb minor", "prediction": "i viio6 V7 i64 iv7/v i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "F minor", "prediction": "i viio6 V7 iv6 i i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "F# minor", "prediction": "i viio6 V7 IV7 v7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "G# minor", "prediction": "i64 vi7 V7 i M7 iv7 i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Ab major", "prediction": "I | vii7 | I | IV | ii7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Bb major", "prediction": "V7 | vi | V7 | I | I6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "C major", "prediction": "I V7 I viio6 V7/vi IV64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Db major", "prediction": "ii7 V7 i ii7 V7/vi I64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Eb major", "prediction": "I vi V7 I IV7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "F major", "prediction": "I V7 I viio6 i64 V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "A minor", "prediction": "i vi VII7 V7/i | i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "B minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "C# minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "D minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "E minor", "prediction": "iv V7 i64 iv \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "F# minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "A minor", "prediction": "i vi VII V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "B minor", "prediction": "vii7 iv6 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "C# minor", "prediction": "viio6 iv7 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "E minor", "prediction": "i64 V7 i viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "F# minor", "prediction": "viio6 V7 i7 iv7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "G# minor", "prediction": "i64 viio6 i vi7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Ab major", "prediction": "vi V7/iii viio7 iii vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Bb major", "prediction": "V7 | vii7 | I6 | IV | vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "C major", "prediction": "I | vii7 | iii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Db major", "prediction": "ii7 V7 I6 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Eb major", "prediction": "iii vi V7 I vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "F major", "prediction": "I | vii7 | V7 | i64 | vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "A major", "prediction": "V7 | vi | iii | iii7 | I6 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "B major", "prediction": "I | vii7 | iii7 | iv7 | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "C major", "prediction": "I | vii7 | vi | vii42 | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "D major", "prediction": "ii7 V7 I6 iv6 vii.o7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "E major", "prediction": "I V vii°7 viio6 IV M7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "F# major", "prediction": "V7 | vi | vii6 | vii7 | V7/M7 | V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "G major", "prediction": "I", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "A minor", "prediction": "vi  i  iii  vi  V7  vi\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "Bb minor", "prediction": "i viio6 iv7 V7 i M7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "C# minor", "prediction": "i viio6 V7 i iv7/vi i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "Eb minor", "prediction": "i vi V7 i viio7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "F minor", "prediction": "i viio6 V7 i IV7/v vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "F# minor", "prediction": "viio6 iv6 v VII7 i64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "G# minor", "prediction": "i64 viio6 iv6 v65 i7 i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "A major", "prediction": "V7 | I | iv7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "B major", "prediction": "I | vii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "C major", "prediction": "I V viio6 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "D major", "prediction": "ii7 V7 I6 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "E major", "prediction": "I | vii7 | iii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "G major", "prediction": "I | vii7 | iv6 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Ab major", "prediction": "I vi V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Bb major", "prediction": "V7 | vii7 | iv7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "C major", "prediction": "I V viio6 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Db major", "prediction": "ii7 V7 I6 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Eb major", "prediction": "iii vi I7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "F major", "prediction": "I | vii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "Ab major", "prediction": "viio6 V7 I64 iv7/M7 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "Bb major", "prediction": "iii vi VII6 V7 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "C major", "prediction": "iv6 V7 I6 viio6 iv6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "Eb major", "prediction": "V7 | I6 | I64 | iv7 | viihalfdim7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "F major", "prediction": "V7 | viio6 | vii6 | I6 | V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "G major", "prediction": "V7 i64 vi IV V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "Bb major", "prediction": "V7 | i | vi \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "C major", "prediction": "I | vii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "D major", "prediction": "ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "Eb major", "prediction": "iii vi V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "F major", "prediction": "I | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "G major", "prediction": "I | V7 | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "A minor", "prediction": "i vi i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "B minor", "prediction": "i vii° V7/i | iv V7 | i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "C# minor", "prediction": "i viio i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "D minor", "prediction": "i vii° i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "E minor", "prediction": "i vii° V7/i \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "F# minor", "prediction": "i vii°7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "A major", "prediction": "V7 | vii7 | V7 | iv7 | I\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "Ab major", "prediction": "I64 V7 viio6 ii7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "B major", "prediction": "I | V7 | vii7 | viio6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "C major", "prediction": "I | V | vii° | iii | IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "Db major", "prediction": "ii7 V7 I64 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "E major", "prediction": "I | vii7 | V7 | iv | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "F# major", "prediction": "V7 | iv | vii7 | iii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "A major", "prediction": "V7 ii7 vii.o \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "B major", "prediction": "I | V7 | vii7/o\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "C major", "prediction": "I | V | vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "D major", "prediction": "ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "E major", "prediction": "V7 i64 vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "G major", "prediction": "I64 V7 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "A major", "prediction": "viio6 V7 I vi7 iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "B major", "prediction": "I | V7 | vi | V7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "C major", "prediction": "I | iv7 | V7 | vii7 | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "D major", "prediction": "ii7 V7 I viio6 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "E major", "prediction": "I | iv7 | I | vii7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "G major", "prediction": "I64 V7 iv6 vii.o7 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "Ab major", "prediction": "I6 V viio6 ii7 iv6 iio7 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "Bb major", "prediction": "I | V7 | vi | vii7 | V | iv7/iio | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "C major", "prediction": "I V viio6 IV vii7 V7 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "Eb major", "prediction": "I64 V7 viio6 i64 IV V7 V7/iio I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "F major", "prediction": "I | V7 | vii6 | iii7 | I | iv7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "G major", "prediction": "I64 V ii7 vii65 I V7/i IV7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "A minor", "prediction": "vi V VII vi iii vi \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "Bb minor", "prediction": "ii7 vi7 i64 iv7 v7 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "C minor", "prediction": "iii vi VII VII7 V7 iii \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "D minor", "prediction": "i vi7 V7 i iv7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "Eb minor", "prediction": "i viio6 vi7 iv ii7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "F minor", "prediction": "iv V7 vi io VI iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "G minor", "prediction": "i viio6 iv ii7 v7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "A minor", "prediction": "vi V ii7 iv6 vi \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "B minor", "prediction": "i viio6 IV7 iv7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "C# minor", "prediction": "i viio6 IV7 i i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "E minor", "prediction": "i vii7 iv iv6 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "F# minor", "prediction": "i viio6 V7/vi V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "G# minor", "prediction": "i64 vi7 V7 i ii%7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "A minor", "prediction": "vi V7 iv i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "B minor", "prediction": "i viio6 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "C# minor", "prediction": "i vi VII7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "E minor", "prediction": "iv V7 i io6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "F# minor", "prediction": "viio6 iv6 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "G# minor", "prediction": "i64 viio6 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "A major", "prediction": "V7 | viio6 | V | I | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "C major", "prediction": "I | vii7 | V | vii7/V | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "D major", "prediction": "ii7 V7 I viio6 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "E major", "prediction": "V7 | vii7 | V | ii7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "F major", "prediction": "I | V7 | I | iv7 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "G major", "prediction": "I64 V7 iv ii7 V \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "A minor", "prediction": "vi V7/iio VI7 iv7 iio6 V7/i I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "B minor", "prediction": "i vi7 V7 iv ii7 vi7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "D minor", "prediction": "i viio6 V7 iv ii7 i64 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "E minor", "prediction": "i vi7 V7 iv io6 viio7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "F# minor", "prediction": "vi7 V7 i7 iv7 v7 V7 vi7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "G minor", "prediction": "i vi7 V7 iv64 iii6 IV M7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Ab major", "prediction": "I64 V viio6 iv I7 V7/iio DCML does not apply here as the key is Ab major and DCML is typically used for minor keys, however: \nI64 V viio6 iv I7 V7/iio \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Bb major", "prediction": "V7 | vii7 | iv | V7 | I6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "C major", "prediction": "I V vi iv V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Db major", "prediction": "I | vii7 | iv | I | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Eb major", "prediction": "iii vi V I viio6 iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "F major", "prediction": "I | V7 | viio6 | I | IV6 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "F# major", "prediction": "V7 | vi | iii6 | V7 | V9 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Ab major", "prediction": "vi V7/iii viio6 iv I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Bb major", "prediction": "iii vi7 I V7 iii \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "C major", "prediction": "iv V7 I vii7 iv \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Db major", "prediction": "I | viio6 | iii7 | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Eb major", "prediction": "V7 I64 viio6 iii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "F major", "prediction": "V7 | viio6 | iii64 | VI7 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "Ab major", "prediction": "I | vii7 | I | iii7 | vii7/M7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "B major", "prediction": "I | vii7 | I | IV | vii7/V | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "C major", "prediction": "I V7 I iv V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "Db major", "prediction": "I | vii7 | I | iv | I6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "E major", "prediction": "I | vii7 | I | IV | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "Eb major", "prediction": "I | vii7 | I | IV | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "F# major", "prediction": "V7 | iv7 | V7 | vii%7 | iv7/M7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "A major", "prediction": "vi V6 vi iv I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "B major", "prediction": "I | vii", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "C major", "prediction": "I | vii7 | I | IV | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "D major", "prediction": "ii7 V7 I ii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "Db major", "prediction": "I | vii7 | I | iv | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "E major", "prediction": "I | vii7 | I | IV | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "F# major", "prediction": "I | vii7 | I | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "Ab major", "prediction": "vi V7/vi IV7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "B major", "prediction": "iii vi7 V7/vi I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "C major", "prediction": "iv V7 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "Db major", "prediction": "I | vi7 | vi7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "E major", "prediction": "I | vii7 | vii7/V | V \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "Eb major", "prediction": "V7 I", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "F# major", "prediction": "V7 | vii7 | vii7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "A major", "prediction": "vi V7 IV7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "Bb major", "prediction": "V7 iio6 IV7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "C major", "prediction": "I | V | vii7 | ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "D major", "prediction": "ii7 V7 I6 vi7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "F major", "prediction": "I | V7 | iv6 | V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "G major", "prediction": "I | IV | vii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "A minor", "prediction": "i vi VII V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "B minor", "prediction": "i vi V7 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "D minor", "prediction": "i viio6 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "E minor", "prediction": "i7 v6 IV7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "F# minor", "prediction": "viio6 iv6 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "G minor", "prediction": "i64 vi7 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "A major", "prediction": "I6 | vii7 | I6 | iv | vii7 | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "B major", "prediction": "I | vii7 | I | IV | V | V7 | vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "C major", "prediction": "I V7 I viio6 IV V7/vi iv I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "D major", "prediction": "ii7 V7 I ii7 vii6 iv7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "E major", "prediction": "I | vii7 | I | iii7 | vii7 | ii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "F# major", "prediction": "I | vii7 | I | iv | vii7 | V7 | V65 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "G major", "prediction": "I V7 I vii7 iv I64 V7/i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "A major", "prediction": "V7 | vi | iii | vii7 | I64 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "C major", "prediction": "I V vi ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "D major", "prediction": "ii7 V7 I viio6 iv7 I64 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "E major", "prediction": "I | vii7 | iii | iv | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "F major", "prediction": "I | V7 | vii7 | iv | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "G major", "prediction": "I64 V viio6 IV IM7 V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "A minor", "prediction": "i vi V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "Bb minor", "prediction": "i64 viio6 V7 i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "C minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "D minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "F minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "G minor", "prediction": "i vi V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "A major", "prediction": "V7 | vii7 | iii7 | V7 | I7 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "Bb major", "prediction": "I", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "C major", "prediction": "I V viio6 IV V7 ii \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "D major", "prediction": "I | vii7 | IV7 | I | V7 | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "F major", "prediction": "I | V7 | vii7 | I | iv6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "G major", "prediction": "I64 V viio6 IV I64 ii7 I64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "A minor", "prediction": "vi V7 iv ii7 V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "B minor", "prediction": "iii7 vi7 V7 iv7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "C# minor", "prediction": "viio6 iv7 V7 i64 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "E minor", "prediction": "i viio6 IV7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "F# minor", "prediction": "vii7 vi7 i64 iv7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "G# minor", "prediction": "i vi7 V7 iv7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "A major", "prediction": "V7 | vi | VII7 | iii7 | V7/vi | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "B major", "prediction": "I | V7 | vii7 | ii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "C major", "prediction": "I | vii7 | iv | V | viio6/V | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "D major", "prediction": "ii7 V7 I viio6 iv7 V7 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "E major", "prediction": "I vii7 V7 iv I VII7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "F# major", "prediction": "V7 | iv | vii7 | viio | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "G major", "prediction": "I64 V ii7 viio6 IV I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "A major", "prediction": "vi V7 iv I vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "C major", "prediction": "I | vii7 | iii7 | V7 | vi \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "D major", "prediction": "ii7 V7 I6 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "E major", "prediction": "I | vii7 | IV7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "F major", "prediction": "I | vii7 | V7 | I6 | IV \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "G major", "prediction": "I | vii7 | IV7 | iii6 | V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "A minor", "prediction": "i vi V7 iv i IV7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "Bb minor", "prediction": "i viio V7/vi iv6 i V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "C minor", "prediction": "i viio6 iii iv i vi7/V V7/i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "D minor", "prediction": "i vi7 V7 i viio7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "F minor", "prediction": "i viio6 V7 i iv6 i IM7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "G minor", "prediction": "i vi VII V iv i io7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "A major", "prediction": "V7 | vi | ii7 | iii7 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "B major", "prediction": "I | vii7 | iii | IV | I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "C major", "prediction": "I | vii7 | iii | iv | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "D major", "prediction": "ii7 V7 I6 vii7 V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "Db major", "prediction": "I | vii7 | V7 | iio6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "E major", "prediction": "I | vii7 | V | vii7/vi | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "F# major", "prediction": "V7 | iv | vii.o | v | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "A minor", "prediction": "i vi vi iv v VII \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "B minor", "prediction": "i viio6 viio6 IV7 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "C# minor", "prediction": "i viio6 viio6 VI7 i V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "D minor", "prediction": "i viio6 viio6 V i vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "E minor", "prediction": "iv V7 i io IV7 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "F# minor", "prediction": "viio6 iv6 iv6 V7 i6 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "A minor", "prediction": "vi V ii7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "C minor", "prediction": "i viio6 IV7 v7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "D minor", "prediction": "i vi7 V7 iv7 i64 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "E minor", "prediction": "i7 V7 vi io6 V7 i7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "F minor", "prediction": "i viio6 V7 iv6 i64 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "G minor", "prediction": "i viio6 IV V7 i M7\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "A minor", "prediction": "vi V ii7 i64 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "B minor", "prediction": "i viio6 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "D minor", "prediction": "i vi7 V7 i iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "E minor", "prediction": "i viio6 i iv7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "F# minor", "prediction": "i64 viio6 i ii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "G minor", "prediction": "i vi VII V iv i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Ab major", "prediction": "viio6 V7 i6 iv7 I\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Bb major", "prediction": "iii vi V7 I IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "C major", "prediction": "iv V7 viio6 vii7 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Db major", "prediction": "I6 iv7 V7 viio6 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Eb major", "prediction": "V7 | viiio6 | I6 | IV | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "F major", "prediction": "V7 | vii", "finish_reason": "error", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "A minor", "prediction": "i vi VII i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "B minor", "prediction": "i vi V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "Bb minor", "prediction": "i vi7 IV7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "C# minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "Eb minor", "prediction": "i vi VII i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "F# minor", "prediction": "i7 v7 viio6 i7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "G# minor", "prediction": "i viio6 IV7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "A minor", "prediction": "vi V VII i iv VII vi\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "B minor", "prediction": "i viio6 IV7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "C# minor", "prediction": "i viio6 iv VII7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "E minor", "prediction": "i viio6 iv VII7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "Eb minor", "prediction": "vi V7/vi iv7 iio6 V7 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "F# minor", "prediction": "vi7 V7 i64 iv7 V7/vi vi7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "G# minor", "prediction": "i64 viio6 IV7 v7 i half-diminished seventh \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "Ab major", "prediction": "viio6 V7 i64 iv7 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "Bb major", "prediction": "iii vi7 I V7 iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "C major", "prediction": "iv V7 I vii7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "Eb major", "prediction": "V7 | i | V7 | I7 | i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "F major", "prediction": "IV V7 I vii7/desc V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "G major", "prediction": "V7 i64 viio6 IV V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "A major", "prediction": "vi V7 iv I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "Ab major", "prediction": "I64 V viio6 iv \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "B major", "prediction": "I | vii7 | IV7 | iii \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "C major", "prediction": "I | vii7 | iii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "Db major", "prediction": "I | vii7 | IV7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "E major", "prediction": "I64 V7 viio6 iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "F# major", "prediction": "V7 | vii65 | V7/vi | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Ab major", "prediction": "vi V viio iv V \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Bb major", "prediction": "V7 | viiio6 | iii6 | VI7 | viiio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "C major", "prediction": "I V viio6 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Db major", "prediction": "I | vii7 | iii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Eb major", "prediction": "iii vi I V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "F major", "prediction": "I | V7 | vii7 | iv | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "F# major", "prediction": "V7 | iv | vii.o | III7 | iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "A minor", "prediction": "vi V iv iv6 vi \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "Bb minor", "prediction": "i viio6 iv iv6 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "C# minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "Eb minor", "prediction": "i vi7 IV7 iv7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "F minor", "prediction": "i vi7 V7 i i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "F# minor", "prediction": "i vi7 V7/vi V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "G# minor", "prediction": "i vi VII V i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "A minor", "prediction": "vi V VII vi iio7 V/i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "B minor", "prediction": "i viio6 vi7 IV7 i64 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "C# minor", "prediction": "i vi VII VII i iv7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "E minor", "prediction": "i viio6 vi7 i VII7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "Eb minor", "prediction": "i viio6 vi7 i IV7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "F# minor", "prediction": "viio6 V7 i ii7 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "G# minor", "prediction": "i64 viio6 viio6 i64 iv7/M7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "A minor", "prediction": "i vi VII V/i i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "B minor", "prediction": "iii vi VII V | cadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "Bb minor", "prediction": "ii7 vi7 iv7 ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "C# minor", "prediction": "viio6 iv6 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "Eb minor", "prediction": "i viio6 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "F# minor", "prediction": "viio6 v7 V7 i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "G# minor", "prediction": "i vi VII V | cadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "A minor", "prediction": "vi V iv VII7 V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "Bb minor", "prediction": "viio6 i64 V7 i64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "C minor", "prediction": "i viio6 iv7 V7 i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "D minor", "prediction": "i viio6 V7 i64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "F minor", "prediction": "i viio6 V7 iv7 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "G minor", "prediction": "i64 V7 i6 iv6 V\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "A major", "prediction": "vi V6 vi V7 iv6 vii7 I64 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "B major", "prediction": "I | vii7 | I | iv7 | V7 | vii7/V | V7 | V7/vi | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "C major", "prediction": "I V7 I viio64 IV V7/vi vii.o7 V I vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "D major", "prediction": "ii7 V7 I viio6 iv7 V7 I VII7 vi7 i7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "Db major", "prediction": "ii7 viio6 ii7 IV7 vii%7 iii7 V7 I7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "E major", "prediction": "I vii7 I V7 viio6 V7 I viio7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "F# major", "prediction": "I | vii7 | I | V7 | iii | vii7/V | I | V7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "Ab major", "prediction": "I6 iv6 V7/vi ii7 V7/i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "Bb major", "prediction": "V7 | viiio6 | iv7 | iii7 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "C major", "prediction": "I V viio6 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "Eb major", "prediction": "I | vii7 | IV7 | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "F major", "prediction": "I | vii7 | V7 | iv | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "G major", "prediction": "I | vii7 | V7 | iv6 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "A major", "prediction": "vi V VII vii7 iii \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "Bb major", "prediction": "V7 | viio6 | i | iv7 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "C major", "prediction": "I | iv | vii6 | V7 | vii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "D major", "prediction": "ii7 V7 i64 viio7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "F major", "prediction": "I | vii7 | iii | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "G major", "prediction": "I64 V7 iv6 I6 viiø7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "A minor", "prediction": "vi V VII viio7 vi\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "B minor", "prediction": "i vi7 V7 i IM7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "Bb minor", "prediction": "i vi VII7 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "C# minor", "prediction": "i viio6 vi7 iv7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "Eb minor", "prediction": "i viio6 viio64 iv7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "F# minor", "prediction": "viio6 iv6 v7 iM7 viio6 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "G# minor", "prediction": "i vi VII7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "A major", "prediction": "V7 | vi | IV | viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "B major", "prediction": "I | V7 | vii7 | ii7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "C major", "prediction": "I | V | vii7 | iii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "D major", "prediction": "ii7 V7 I viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "Db major", "prediction": "ii7 V7 I64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "E major", "prediction": "I | vii7 | I | iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "F# major", "prediction": "V7 | vii.o6 | V7 | iv6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Ab major", "prediction": "I64 V7 viio6 iii7 viio64 iv7 I64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Bb major", "prediction": "V7 | viio6 | iii | iv | V7 | I6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "C major", "prediction": "I V viio6 iv V7 V7/iv I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Db major", "prediction": "I6 V viio6 iv ii6 i64 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Eb major", "prediction": "I64 V7 viio6 IV I V7/vi I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "F major", "prediction": "I V7 viio6 IV V i64 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "F# major", "prediction": "V7 | viio6 | iii6 | vii%7/v | V7 | I6 | V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "A minor", "prediction": "vi V i iv VII i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "B minor", "prediction": "i viio6 V7 i IV7 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "C# minor", "prediction": "i viio6 V7 iv6 i64 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "E minor", "prediction": "i viio6 iv I V7/vi iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "F# minor", "prediction": "i7 vi7 V7 iv7 viio6 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "G# minor", "prediction": "i64 viio6 IV7 v7 i half-diminished seventh: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "A major", "prediction": "vi V/vi viio7 V7 I V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "Ab major", "prediction": "I64 V7 viio6 ii7 iv6 i6 IV \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "B major", "prediction": "I6 V7 viio6 ii7 ii6 V7 I\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "C major", "prediction": "I V7 viio6 iv7 iv6 V7 I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "Db major", "prediction": "ii7 V7 iio6 iv7 vi7 I7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "E major", "prediction": "I64 V7 viio6 iii7 IV7 ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "F# major", "prediction": "I6 V7 viio6 iv7/v V7 I7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "Bb major", "prediction": "V7 | viiio6 | I \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "C major", "prediction": "I | V | vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "D major", "prediction": "ii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "Eb major", "prediction": "iii7 V7 I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "F major", "prediction": "I | V7 | iv \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "G major", "prediction": "I64 V7 vii%7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Ab major", "prediction": "I vi V7 iv7 vi V7/iio iio VI \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Bb major", "prediction": "V7 | vii7 | iii7 | iv7 | V7 | I64 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "C major", "prediction": "I | iv | vii6 | V7 | I6 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Db major", "prediction": "I6 V7 viio6 iio7 V7 I64 V7/i : cadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Eb major", "prediction": "iii vi VII I V viio V7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "F major", "prediction": "I V7 viio6 V7 I vii7/o I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "F# major", "prediction": "I | V7 | vii7 | iv7 | V7 | iio7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "A major", "prediction": "V7 | vi | iii7 | IV7 | V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "B major", "prediction": "I | vii7 | iii7 | vi7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "C major", "prediction": "I | vii7 | iii | vii7/V | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "D major", "prediction": "ii7 V7 i64 IM7 ii7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "E major", "prediction": "I | vii7 | iii | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "F# major", "prediction": "I | vii7 | iii7 | V7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "G major", "prediction": "I | IV | vii7 | ii7 | I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "A minor", "prediction": "vi V VII i iv7/vi V/i \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "B minor", "prediction": "i viio6 IV7 v7 ii7 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "C minor", "prediction": "i viio6 IV7 v7/i V7/i i64 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "D minor", "prediction": "i vi7 V7 iv7 iio7 v7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "E minor", "prediction": "iv V7 i viio6 ii7/i V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "G minor", "prediction": "i64 vi7 IV V7 iM7 viio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "A minor", "prediction": "vi V7 iv i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "B minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "C# minor", "prediction": "i viio7 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "E minor", "prediction": "iv V7 i vii%7\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "Eb minor", "prediction": "iii vi7 V7 i\ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "F# minor", "prediction": "viio6 V7 i64 v65 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "G# minor", "prediction": "i vi7 V7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "A minor", "prediction": "vi V iv VII6 vi\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "Bb minor", "prediction": "i viio6 IV7 i IM7 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "C# minor", "prediction": "i viio6 iv VII7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "Eb minor", "prediction": "i viio6 V7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "F minor", "prediction": "i viio6 V7 i IM7 i \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "F# minor", "prediction": "i viio6 V7 i M7 i\ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "G# minor", "prediction": "i64 viio6 iv7 v7 i64 \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "A major", "prediction": "V7 i64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Ab major", "prediction": "V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "B major", "prediction": "ii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Bb major", "prediction": "V7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "C major", "prediction": "iii7 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "D major", "prediction": "I64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Db major", "prediction": "I64 \ncadence: PC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "E major", "prediction": "I64 \ncadence: PC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Eb major", "prediction": "I \ncadence: PAC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "F major", "prediction": "V7 i64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "F# major", "prediction": "V7 i64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "G major", "prediction": "V7 i64 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "A minor", "prediction": "vi V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "B minor", "prediction": "i64 V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "C# minor", "prediction": "i vi \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "E minor", "prediction": "iv V7 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "F# minor", "prediction": "v7 iio6 \ncadence: HC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "G# minor", "prediction": "i64 viio6 \ncadence: DC", "finish_reason": "stop", "model": "meta-llama/llama-3.3-70b-instruct", "prompt_version": "1"}

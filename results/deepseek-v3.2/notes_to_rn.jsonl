@@ -1,0 +1,943 @@
+{"shape_id": "014e86bb35", "key": "A major", "prediction": "V64 I V65/vi viio7/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "Bb major", "prediction": "I V7/vi viio7/V V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "C major", "prediction": "I V7 viio6 V7/vi vi", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "D major", "prediction": "I64 V65 viio6 V%7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "F major", "prediction": "V I65 viio6/ii ii%7 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "G major", "prediction": "V I6 viio6/V V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "A minor", "prediction": "i VI V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "Bb minor", "prediction": "i V65 VI iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "C minor", "prediction": "i VI VII6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "D minor", "prediction": "i VI V65 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "Eb minor", "prediction": "i V6 VI V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "F minor", "prediction": "i V6 iio6 V7/III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "G minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Ab major", "prediction": "I V65/vi vi V43\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "B major", "prediction": "I V6 viio6/vi vi6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "C major", "prediction": "I V65/vi viio6/vi vi6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Db major", "prediction": "I V65 I6 IV\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "E major", "prediction": "I V43 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Eb major", "prediction": "I V65/vi vi V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "F# major", "prediction": "V I6 V43/V V65/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "A minor", "prediction": "i V65/III IIIM7 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "B minor", "prediction": "i V43/III IIIM7 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "D minor", "prediction": "i V65/III IIIM7 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "E minor", "prediction": "i V7/vi viio7/V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "F# minor", "prediction": "i V65/iv iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "G minor", "prediction": "V i6 V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "Bb major", "prediction": "I V65 I6 viio7/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "C major", "prediction": "I V6 vi V4/2 V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "D major", "prediction": "V I6 V43/vi vi V65/V V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "Eb major", "prediction": "I V6 viio6/vi IV6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "F major", "prediction": "I64 V65 viio6/V V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "G major", "prediction": "V53 I6 V7/vi vi V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "A minor", "prediction": "i V6 viio6 i6 V7/III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "B minor", "prediction": "i V6 V/iv iv6 V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "C# minor", "prediction": "i V6 V7/iv iv6 V7 i64 V7/VI\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "D minor", "prediction": "i V65 iio6 V7 i V65/iv iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "E minor", "prediction": "i V6 V7/iv iv6 V i64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "F# minor", "prediction": "i V6 V7/iv iv V65/III III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "A minor", "prediction": "i V6 i64 VI i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "Bb minor", "prediction": "i V43/iv iv6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "C minor", "prediction": "i V6 iio6 iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "Eb minor", "prediction": "i V6 i64 iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "F minor", "prediction": "i V6 iio6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "G minor", "prediction": "i V6 i6 iv6 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ac58de293", "key": "G# minor", "prediction": "i V6 V43/iv iv6 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Ab major", "prediction": "I V65 I viio6 I6\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "B major", "prediction": "V I6 viio6 V65/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Bb major", "prediction": "I V6 viio6/vi viio6/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "C major", "prediction": "I V6 vi I64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Db major", "prediction": "I V6 viio6/IV IV6 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Eb major", "prediction": "I V6 viio6/vi viio6 I64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "F# major", "prediction": "V I vi V42/V V65/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "A major", "prediction": "I V6 ii65 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "Bb major", "prediction": "I V6 viio6/vi V7/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "C major", "prediction": "I V6 viio65/V V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "D major", "prediction": "I V6 vi7 I6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "F major", "prediction": "I V6 viio65/V I6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "G major", "prediction": "I V6 viio7/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "A minor", "prediction": "i V65/iv iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "B minor", "prediction": "i V65/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "Bb minor", "prediction": "i V65/III III%7 iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "C# minor", "prediction": "i V7 i64 V65/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "Eb minor", "prediction": "i V65/iv iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "F# minor", "prediction": "i V65 iio6 V i V/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "G# minor", "prediction": "i V65/iv iv6 V iio6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "A major", "prediction": "I64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "Ab major", "prediction": "I V65/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "B major", "prediction": "I V65/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "C major", "prediction": "I V7 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "Db major", "prediction": "I V7/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "E major", "prediction": "V53 I6 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "F# major", "prediction": "V6 I6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "A major", "prediction": "I V6 viio7/V V65/IV IV V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "B major", "prediction": "I V6 viio6/vi vi6 IV V43/IV I6 V7/IV IV6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "C major", "prediction": "I V6 vi V7/V V I7 vi\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "D major", "prediction": "I V6 viio6/vi V43/vi vi V7 ii6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "E major", "prediction": "I V65 I V7/IV IVM7 I V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "G major", "prediction": "I V6 vi V7/V V I6 V7\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "A major", "prediction": "I V viio6/vi V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "Bb major", "prediction": "I V6 I64 V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "C major", "prediction": "I V6 I6 V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "D major", "prediction": "I V6 viio6/vi V7/vi viio7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "F major", "prediction": "IV V65/V V65 I64\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "G major", "prediction": "I V6 viio6/vi vi6 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "A major", "prediction": "I V6 viio7/V V6 V7 I64 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "B major", "prediction": "I V6 viio7/V V6 ii65 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "C major", "prediction": "I V6 viio7/V V6 ii65 I64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "D major", "prediction": "I V6 viio7/V V6 ii65 I64 V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "E major", "prediction": "I V6 viio7/V V6 ii7 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "F# major", "prediction": "V I V43/vi viio7/V V65/IV IV V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "G major", "prediction": "V I V7/vi vi V7/vi viio7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "A minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "Bb minor", "prediction": "i V6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "C minor", "prediction": "i VI V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "D minor", "prediction": "i VI V65 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "F minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "15dcb6b289", "key": "G minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "A minor", "prediction": "i V6 viio43/V i6 V65/III III%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "B minor", "prediction": "i V6 viio7/V V V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "C# minor", "prediction": "i VI V43/iv iv V65/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "E minor", "prediction": "i V6 viio7/V i6 V7/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "Eb minor", "prediction": "i V6 V%7/V i64 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "F# minor", "prediction": "i V6 V%7/V i6 V7/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "G# minor", "prediction": "i V6 iv%7 V65 i64 V7/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Ab major", "prediction": "I V6 viio6/IV IV6 V I6 IV V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Bb major", "prediction": "V65 I6 IV IV6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "C major", "prediction": "I64 V6 viio6/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Db major", "prediction": "IV6 V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Eb major", "prediction": "I64 V65 viio6/ii ii65 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "F major", "prediction": "V65 I viio6/ii ii V43 I6 IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "A major", "prediction": "I V6 V6 vi V7/V V\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "B major", "prediction": "I V6 I6 IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "C major", "prediction": "I V6 viio6/vi vi V43 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "D major", "prediction": "I V6 V6 IV I%7 I\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "E major", "prediction": "I V6 V6 vi V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "F# major", "prediction": "V I V V/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "G major", "prediction": "I V6 V6 vi V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "A minor", "prediction": "i V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "Bb minor", "prediction": "i V7/VI VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "C# minor", "prediction": "i V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "Eb minor", "prediction": "i V43/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "F minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "F# minor", "prediction": "i V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1bd90771f1", "key": "G# minor", "prediction": "iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "A major", "prediction": "I V6 viio65/V V65/V V7/IV IV", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "B major", "prediction": "I V6 vi7 V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "C major", "prediction": "I IV ii V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "D major", "prediction": "V I V65/vi vi V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "Db major", "prediction": "I V6 viio7/V V7/vi viio7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "E major", "prediction": "V65 vi V43/IV IVM7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "F# major", "prediction": "V I V7/vi viio7/V V7/vi V7/ii ii7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "A minor", "prediction": "i V65 viio6/V i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "Bb minor", "prediction": "i V7 iio6/V V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "C minor", "prediction": "i V7 i6 V65/iv i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "C# minor", "prediction": "i V65/iv iv%7 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "Eb minor", "prediction": "i V7/iv iv%7 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "F minor", "prediction": "i V65/iv iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "G# minor", "prediction": "i V65/iv iv%7 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "A minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "B minor", "prediction": "i V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "C minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "D minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "E minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "G minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "A minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "B minor", "prediction": "i V6 i64 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "Bb minor", "prediction": "i V6 VI V/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "C# minor", "prediction": "i V6 i6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "Eb minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "F# minor", "prediction": "i V6 i64 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "G# minor", "prediction": "i V6 i64 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "A major", "prediction": "V6 I64 V65/vi viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "B major", "prediction": "V6 viio6/V V65/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "C major", "prediction": "I64 V65/IV IV7 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "D major", "prediction": "V6 IV65 V7/vi viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "Db major", "prediction": "V43 I V65/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "E major", "prediction": "V6 I6 ii7 V7/V V65/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "F# major", "prediction": "V6 V65/ii ii7 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Ab major", "prediction": "viio6/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "B major", "prediction": "I V6 vi V43/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Bb major", "prediction": "V I vi V7/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "C major", "prediction": "I V6 vi IV V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Db major", "prediction": "I V6 viio6/vi viio6 V7/vi vi%7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Eb major", "prediction": "I V6 I6 viio6/ii ii%7 V9 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "F# major", "prediction": "V64 I V65/vi vi V7/vi viio7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "Ab major", "prediction": "I V43 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "Bb major", "prediction": "I64 I64 IV I\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "C major", "prediction": "I64 I IV I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "Eb major", "prediction": "I V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "F major", "prediction": "V64 I V64 I V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "260889cf5b", "key": "G major", "prediction": "I6 I6 IV6 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "A minor", "prediction": "i V6 iio6 V65/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "Bb minor", "prediction": "i V6 iv6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "C minor", "prediction": "i6 V6 VI iv6 V%7/VI VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "D minor", "prediction": "i V6 i64 V65 V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "F minor", "prediction": "i VI iv V65/VI VI V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "G minor", "prediction": "i V6 i6 iv64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Ab major", "prediction": "I V7/vi vi IV7 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "B major", "prediction": "I V6/vi vi V42/V V6 V4/3 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Bb major", "prediction": "V viio7/ii ii6 V7/vi vi7 I V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "C major", "prediction": "I V7/vi vi V7/V V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Db major", "prediction": "I V65/V viio7/ii ii%7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "Eb major", "prediction": "V43/IV V7/IV IV6 V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "281037096a", "key": "F# major", "prediction": "I V65/V V6 viio7/V V65 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "A major", "prediction": "I V6 vi V43/V V7 I6\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "Ab major", "prediction": "I V6 IV6 I6 V%7/IV I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "B major", "prediction": "I64 V I6 IV V7/vi vi V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "C major", "prediction": "I V6 viio6/V V65 I7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "Db major", "prediction": "I V6 IV V43 I64 V7\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "E major", "prediction": "I V6 IV6 V43/vi vi V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "29e96a33fc", "key": "F# major", "prediction": "V I V43/vi vi V65/IV IV V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "A major", "prediction": "viio6 I V64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "B major", "prediction": "V6 V65 I6 viio6/ii\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "C major", "prediction": "I64 V6 viio6 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "D major", "prediction": "V6 I6 IV V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "E major", "prediction": "V6 I V6/vi vi V42/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "F# major", "prediction": "V65 viio6/V V7/V V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2af8afd15e", "key": "G major", "prediction": "V6 I6 vi V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "Ab major", "prediction": "I V65 viio6/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "B major", "prediction": "I V65 vi V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "C major", "prediction": "I V6 vi V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "Db major", "prediction": "I V6 viio6/vi V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "E major", "prediction": "I V6 vi V43/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "Eb major", "prediction": "I V6 viio6/vi viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b064997b7", "key": "F# major", "prediction": "V64 I V65/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "A minor", "prediction": "i V6 iio6 V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "B minor", "prediction": "i V6 iv6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "C# minor", "prediction": "i6 V i64 V7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "E minor", "prediction": "i V6 i6 iv6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "Eb minor", "prediction": "i V6 i64 V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "F# minor", "prediction": "i V6 i64 V7/V V65/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "2b5bbbc0db", "key": "G# minor", "prediction": "i V6 i64 V7/iv iv%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "A minor", "prediction": "i V%7 V6 cadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "Bb minor", "prediction": "i V7 iio6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "C minor", "prediction": "i V43/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "D minor", "prediction": "i V65 iio6 V7/III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "Eb minor", "prediction": "i V7/VI VI V65/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "F minor", "prediction": "i V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "30ff20d9c2", "key": "G minor", "prediction": "i V7/VI VI V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "A minor", "prediction": "i V7 iio6 V65/VI VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "Bb minor", "prediction": "i V7 iio6 V7/VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "C minor", "prediction": "i V7/VI VI7 V7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "D minor", "prediction": "i V65 V7/VI VI\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "F minor", "prediction": "i V65 i6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3233b5dc89", "key": "G minor", "prediction": "i V65/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "A minor", "prediction": "i V6 iio6 V7/V V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "B minor", "prediction": "i V6 V/iv iv%7 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "Bb minor", "prediction": "i V6 V7/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "C# minor", "prediction": "i V6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "Eb minor", "prediction": "i V6 iio6 V7/VI VI65 i64\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "F# minor", "prediction": "i V6 V%7/iv V7/iv i", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3311d961ae", "key": "G# minor", "prediction": "i V6 iv6 V42/V V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "Bb major", "prediction": "I V6 I viio7 V7/vi viio7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "C major", "prediction": "I V6 I ii65 V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "D major", "prediction": "I V6 I vi V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "Eb major", "prediction": "I V6 I ii7 V7/vi viio7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "F major", "prediction": "I V6 I IV7 V7/IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3324563666", "key": "G major", "prediction": "V I6 V viio7/V V7/vi viio7/vi V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "A minor", "prediction": "i i6 V%7/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "B minor", "prediction": "i V6 iio7 V43/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "Bb minor", "prediction": "i V6 i V43/VI VI V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "C# minor", "prediction": "i6 V i V43/iv iv V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "Eb minor", "prediction": "i V6 i64 V%7/V VI iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "F# minor", "prediction": "i V6 i64 V7 i V65/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "339a8bbfea", "key": "G# minor", "prediction": "i V6 i V65/iv iv V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "A minor", "prediction": "i VI VI v6 i64 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "Bb minor", "prediction": "i V6 i6 iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "C minor", "prediction": "i VI VI iv V65 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "Eb minor", "prediction": "i V6 V6 iv6 i64 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "F minor", "prediction": "i VI iv6 V43 i V7/III III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "G minor", "prediction": "i VI VI v6 i V G: i VI VI v6 i V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "379519793b", "key": "G# minor", "prediction": "i V6 i V6 V V7/iv i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Ab major", "prediction": "I V6 I viio6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "B major", "prediction": "I V6 I vi V42/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Bb major", "prediction": "I V6 I viio6 I64 V7/vi viio7/V I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "C major", "prediction": "I V65 I ii V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Db major", "prediction": "I V6 I viio6 V7/IV IV6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "Eb major", "prediction": "I V6 I IV V7/IV ii%7 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3814e46a92", "key": "F# major", "prediction": "I V6 I vi V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "A major", "prediction": "I V65 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "B major", "prediction": "I V6/vi viio7/V V65/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "C major", "prediction": "I V65/IV IV7 I64 V\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "D major", "prediction": "I V65 I IV6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "Db major", "prediction": "I V65/IV IV6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "E major", "prediction": "I V65/vi vi V43/IV IV64\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ceeb0485", "key": "F# major", "prediction": "I V65/vi vi V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "A major", "prediction": "V6 vi V43/vi viio6/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "C major", "prediction": "I64 V6 viio6 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "D major", "prediction": "V6 V65 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "E major", "prediction": "V6 vi V43/V V65/IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "F major", "prediction": "V65 I IV viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "38ecd4d03c", "key": "G major", "prediction": "V43 I6 viio6 I64\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "A minor", "prediction": "i V6 iio6 V65/V V7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "C minor", "prediction": "i V6 iio6 V7\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "D minor", "prediction": "i V6 V43/iv iv65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "E minor", "prediction": "i V6 viio7/V V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "F minor", "prediction": "i V6 ii%65 V7/III IIIM7\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3927a84684", "key": "G minor", "prediction": "i V6 iio6 V7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "A major", "prediction": "I V65/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "B major", "prediction": "V53 I64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "C major", "prediction": "I V65/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "D major", "prediction": "I V6/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "E major", "prediction": "V53 I64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3a5404dda3", "key": "G major", "prediction": "I V6/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "A major", "prediction": "I V6 IV V6/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "B major", "prediction": "I V6 vi V6/vi ii%7 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "C major", "prediction": "I V6 IV V65/V V7 I6\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "D major", "prediction": "I V6 IV IV7 V7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "E major", "prediction": "I V6 vi V43/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3e91d5416f", "key": "G major", "prediction": "I V6 vi V43/IV IVM7 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "A major", "prediction": "V64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "Bb major", "prediction": "I V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "C major", "prediction": "I V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "D major", "prediction": "I6 V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "F major", "prediction": "I V65 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "3f73877b95", "key": "G major", "prediction": "V I6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "A minor", "prediction": "i V6 V43/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "Bb minor", "prediction": "i V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "C# minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "Eb minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "F minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "F# minor", "prediction": "i V vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "433e53c279", "key": "G# minor", "prediction": "i V6 V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "A minor", "prediction": "i VI V65/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "Bb minor", "prediction": "i V65/III III6 viiø7/V V6/iv i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "C minor", "prediction": "i VI ii%65 V43 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "D minor", "prediction": "i VI V65/V V7/V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "F minor", "prediction": "i VI V65/iv iv6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "438316c6b9", "key": "G minor", "prediction": "i V6 iv%7 V65/V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "A minor", "prediction": "i V6 viio7/V V65/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "Bb minor", "prediction": "i V6 iio%7 V7/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "C minor", "prediction": "i V6 ii%65 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "Eb minor", "prediction": "i V6 V7/iv iv65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "F minor", "prediction": "i V65 iio%7 V7/VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "G minor", "prediction": "iv6 V iio%7 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4618ada12f", "key": "G# minor", "prediction": "i V6 iv%65 V43/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "A minor", "prediction": "i V6 iio6 V7/V V V7/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "Bb minor", "prediction": "i V43/VI VI V65/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "C minor", "prediction": "i V6 iio6 V7/V V IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "D minor", "prediction": "i V6 V65/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "Eb minor", "prediction": "i V6 iio6 V43/iv iv V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "F minor", "prediction": "i V6 iio6 V%7/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "46c321129a", "key": "G minor", "prediction": "i V6 V43/iv iv6 V V7/III III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "A major", "prediction": "I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "Bb major", "prediction": "I V65/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "C major", "prediction": "I V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "D major", "prediction": "I V65/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "F major", "prediction": "I V65/IV IV\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "479c2e44d9", "key": "G major", "prediction": "I V65/V I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "A major", "prediction": "I V65 viio6/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "B major", "prediction": "I V6 viio7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "C major", "prediction": "I V43 I64 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "D major", "prediction": "I V65 viio7/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "E major", "prediction": "I V6/vi viio7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "F# major", "prediction": "V I6 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "4b54f2392e", "key": "G major", "prediction": "I V65/vi viio6/vi I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "A minor", "prediction": "i6 IV V6 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "Bb minor", "prediction": "i6 V i64 V43/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "C minor", "prediction": "i6 V43/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "D minor", "prediction": "i6 V43 i6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "F minor", "prediction": "i VI V6 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "542b8a637d", "key": "G minor", "prediction": "iv6 V i6 iv\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "Ab major", "prediction": "I V43 I6 V65\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "B major", "prediction": "I V65/vi vi V42/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "C major", "prediction": "I V65/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "Db major", "prediction": "I64 V65/IV IV7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "E major", "prediction": "V65 I vi7 V43/V V65/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "Eb major", "prediction": "I V65/IV IV7 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "56c0d7f317", "key": "F# major", "prediction": "V I43 viio7/V V65/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "A major", "prediction": "I V6 vi viio65/vi V7/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "C major", "prediction": "I V6 vi V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "D major", "prediction": "V I6 vi V7/vi viio7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "E major", "prediction": "V53 I6 vi V7/vi viio7/V V53\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "F major", "prediction": "I V6 viio7/V V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5800ff20ac", "key": "G major", "prediction": "V53 I6 vi7 V7/V V7 I53\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "A major", "prediction": "I V6 viio7/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "Bb major", "prediction": "I V65 viio%43 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "C major", "prediction": "I V6 viio7/V V6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "D major", "prediction": "I V6 viio7/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "F major", "prediction": "I V6 viio7/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "58d95616f1", "key": "G major", "prediction": "I V6 viio7/vi V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "A minor", "prediction": "i6 V43 iio6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "Bb minor", "prediction": "i6 V43/iv iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "C minor", "prediction": "i6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "C# minor", "prediction": "V6 V43/iv iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "Eb minor", "prediction": "V6 iio6 V%7/V i64\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "F minor", "prediction": "i VI V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "597abd1640", "key": "G# minor", "prediction": "viio6 V i64 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "A minor", "prediction": "i6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "B minor", "prediction": "i6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "Bb minor", "prediction": "iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "C minor", "prediction": "i6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "C# minor", "prediction": "V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "D minor", "prediction": "i6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "E minor", "prediction": "iii6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "Eb minor", "prediction": "iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "F minor", "prediction": "i6\ncadence:", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "F# minor", "prediction": "viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "G minor", "prediction": "iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5ba08fb56f", "key": "G# minor", "prediction": "viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Ab major", "prediction": "I V6 I6 IV ii%65 V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "B major", "prediction": "I V6 I6 IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Bb major", "prediction": "I V6 I6 IV ii%65 V6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "C major", "prediction": "I IV6 IV6 ii6 V43 IV6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Db major", "prediction": "I V6 V6 vi IV7 V6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "Eb major", "prediction": "I V65 I IV V65/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c15b3926a", "key": "F# major", "prediction": "V V6 viio6/ii ii V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "Ab major", "prediction": "I V6 viio6/IV IV7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "B major", "prediction": "V64 I V65/vi vi V7/vi", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "C major", "prediction": "I64 V7 I IV V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "Db major", "prediction": "I V6 viio6/IV IV64 V7/IV IV\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "E major", "prediction": "V53 I6 viio6/ii V7/ii ii7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "Eb major", "prediction": "I64 V7 I IV V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c2322b90b", "key": "F# major", "prediction": "V64 I V65/vi vi V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "A minor", "prediction": "i6 V65/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "B minor", "prediction": "i6 V43/iv iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "D minor", "prediction": "i6 V43/iv iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "E minor", "prediction": "viio6 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "F# minor", "prediction": "V6 i V65/iv iv6 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "5c73c772aa", "key": "G minor", "prediction": "iv6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Ab major", "prediction": "I V6 I V65/vi vi ii65 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Bb major", "prediction": "I V6 I V7/vi vi V65/V V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "C major", "prediction": "I V6 I V7/vi vi ii65 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Db major", "prediction": "I V65 I viio7/V V7/vi viio6/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "Eb major", "prediction": "I V65 I V7/vi vi7 ii%7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "F major", "prediction": "I V65 I V7/vi vi V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63626b4add", "key": "F# major", "prediction": "I64 V65 I64 V7/vi vi7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "A major", "prediction": "I V6 vi IV V6/vi V I V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "B major", "prediction": "I V65 vi V43/IV IV V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "C major", "prediction": "I V6 vi IV IV6 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "D major", "prediction": "I V6 vi V43/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "Db major", "prediction": "I V65 I6 ii%7 V7/vi vi V43/IV IV I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "E major", "prediction": "V53 I6 viio6/V V65/IV IV V53 viio6/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63af275d45", "key": "F# major", "prediction": "V I6 IV V43/vi vi V42 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "A minor", "prediction": "i6 V43 i6 V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "Bb minor", "prediction": "i6 V43 i V7/VI VI iiø65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "C minor", "prediction": "i6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "C# minor", "prediction": "V6 iv6 i V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "Eb minor", "prediction": "V6 iio6 V43 i7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "F minor", "prediction": "i V65 i V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "63c3083f94", "key": "G# minor", "prediction": "viio6 V i64 V7/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "A minor", "prediction": "i VI V65 i V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "B minor", "prediction": "i V6 i64 V43 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "C# minor", "prediction": "i V6 i6 V43/V V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "E minor", "prediction": "i VI iv6 V65 V7/III i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "F# minor", "prediction": "i V6 i V6 III+6 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "64f6591a60", "key": "G# minor", "prediction": "i V6 i6 V iio65 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "A minor", "prediction": "i V6 viio7/V V65/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "Bb minor", "prediction": "i V6 i64 V7/VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "C# minor", "prediction": "i V6 i64 viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "Eb minor", "prediction": "i V6 i64 V43/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "F minor", "prediction": "i V6 i64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "F# minor", "prediction": "i V6 iv6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6866545811", "key": "G# minor", "prediction": "i V6 i64 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "A minor", "prediction": "i V6 iio6 V%7/V V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "B minor", "prediction": "i V6 V/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "C minor", "prediction": "i V6 iio6 V43/iv iv V65/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "D minor", "prediction": "i V6 V i64 V7/iv iv V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "E minor", "prediction": "i V6 iv6 V7/V V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "6b8474d49b", "key": "G minor", "prediction": "i V6 i64 V7/iv iv V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "A minor", "prediction": "i V6 iio6/V V65/V V7/vi viio7/III III%7", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "B minor", "prediction": "i V6 V/vi vi V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "C# minor", "prediction": "i6 V6 viio7/V V65 V7/vi iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "E minor", "prediction": "i6 V43 i V65/iv iv6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "Eb minor", "prediction": "i V6 i64 V7 i V%7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "F# minor", "prediction": "i V6 V%7/V V65/iv iv6 V7/III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "70a95e53d3", "key": "G# minor", "prediction": "i V6 iv%7 i V43/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "A minor", "prediction": "i V6 viio7/V i64\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "Bb minor", "prediction": "i V6 i64 V%7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "C minor", "prediction": "i V65 I6 viio7/V VI\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "C# minor", "prediction": "i V6 V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "Eb minor", "prediction": "i V6 i64 V%7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "F minor", "prediction": "i V65/iv iv6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "71f6d51864", "key": "G# minor", "prediction": "i V6 V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "Bb major", "prediction": "I V6 I6 IV V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "C major", "prediction": "I V6 viio6/vi viio6/vi ii6 V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "D major", "prediction": "I V6 V6 IV I6 V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "Eb major", "prediction": "I V65 I64 V7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "F major", "prediction": "I V6 V6 IV I64\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7246e45caa", "key": "G major", "prediction": "I V6 I6 IV V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "A minor", "prediction": "i6 V7 i6 V7/V V7 i6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "Bb minor", "prediction": "i64 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "C minor", "prediction": "i6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "C# minor", "prediction": "V6 V7/iv iv6 V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "Eb minor", "prediction": "i6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "F minor", "prediction": "i VI V65/iv i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "729ef6a12c", "key": "G# minor", "prediction": "i6 V43/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "A major", "prediction": "I V6 vi IV6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "B major", "prediction": "I V6 vi V43/IV IV V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "C major", "prediction": "I IV6 vi V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "D major", "prediction": "I V6 vi V43/IV IV I64 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "Db major", "prediction": "I V6 viio6/vi viio6 ii7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "E major", "prediction": "I V6 viio6/vi vi V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "73b72b9fad", "key": "F# major", "prediction": "I V6 viio6/vi vi6 IV V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "A major", "prediction": "I V65/V V43/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "Ab major", "prediction": "I V65 viio7/vi I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "B major", "prediction": "I V43/vi vi7 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "C major", "prediction": "V I6/4 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "Db major", "prediction": "I V65/vi viio%7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "E major", "prediction": "I V6/vi viio7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "75b977f3d0", "key": "F# major", "prediction": "V I6 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "A minor", "prediction": "i V6 iio65 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "Bb minor", "prediction": "i V6 i64 viio7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "C minor", "prediction": "i V6 iio65 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "D minor", "prediction": "i V6 iio65 V7/V V65/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "Eb minor", "prediction": "i V6 i64 V43/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "F minor", "prediction": "i V65 i6 V%7/V VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "77d4aa1c52", "key": "G minor", "prediction": "i V6 iv%65 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "A minor", "prediction": "i6 V7 i V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "C minor", "prediction": "i V43 i V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "D minor", "prediction": "i6 V65 i V7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "E minor", "prediction": "i6 V65 i V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "F minor", "prediction": "i V65 i V7/III III%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7da05e40a4", "key": "G minor", "prediction": "V6 i6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "A major", "prediction": "viio6 I V64 I V V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "B major", "prediction": "IV V65 vi I64 ii%7 I\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "C major", "prediction": "I64 V6 IV I6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "D major", "prediction": "V6 IV6 ii6 V I64 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "E major", "prediction": "V6 vi V43/IV IV V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7f76cbe677", "key": "G major", "prediction": "V6 I6 IV V6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "A major", "prediction": "I6 V43 I64 viio6 V7/vi vi7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "B major", "prediction": "I V6 vi V43/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "C major", "prediction": "I V6 vi IV V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "D major", "prediction": "V I6 IV6 V V/vi vi7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "E major", "prediction": "V53 I6 V42 I6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "7fa9cab16b", "key": "G major", "prediction": "V I6 IV V43/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Ab major", "prediction": "I V6/vi vi V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "B major", "prediction": "I V6 viio6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Bb major", "prediction": "I V6 viio6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "C major", "prediction": "I V6 viio6/I I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Db major", "prediction": "I V6 viio6/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "Eb major", "prediction": "I V6 viio6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "82c1fe3f36", "key": "F# major", "prediction": "V65 I viio6/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "A minor", "prediction": "i V6 iio6 V7/V V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "Bb minor", "prediction": "i V6 V/iv iv6 V7/III III%7 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "C# minor", "prediction": "i V6 V7/iv iv6 V7/V V65/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "Eb minor", "prediction": "i V6 iio6 V7/iv ivM7 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "F minor", "prediction": "i V65/iv iv6 V7/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "F# minor", "prediction": "i V6 iio6 V7/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8377db75b5", "key": "G# minor", "prediction": "i V43 iio6 V7/iv ivM7 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Ab major", "prediction": "I V65 I viio6 V%7/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Bb major", "prediction": "I V65 I vi V7/vi viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "C major", "prediction": "I V6 I vi V7 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Db major", "prediction": "I V6 I vi V7/IV IV\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "Eb major", "prediction": "I V6 I IV V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "865dacf06c", "key": "F major", "prediction": "I V6 I V65 viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "A minor", "prediction": "i V6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "B minor", "prediction": "i V6/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "C# minor", "prediction": "i V6 V7/V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "D minor", "prediction": "i V65/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "E minor", "prediction": "i V6/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "870ef49d21", "key": "F# minor", "prediction": "i V65 VI vii%7/V i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "A minor", "prediction": "i6 V6 i V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "B minor", "prediction": "i6 V43 i V65/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "C# minor", "prediction": "i6 V43 i V65/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "E minor", "prediction": "i V6 i64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "F# minor", "prediction": "viio6 V i64 V7/VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8778fea9c8", "key": "G# minor", "prediction": "i6 V i64 V7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Ab major", "prediction": "I V65 viio7/V V65/IV IV6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Bb major", "prediction": "I V6 viio7/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "C major", "prediction": "I V6 viio65 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Db major", "prediction": "I V6 viio65/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "Eb major", "prediction": "I V43 I7 IVM7 V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "89c1e87c34", "key": "F major", "prediction": "I V65 I6 V43 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "A major", "prediction": "I V6 vi V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "B major", "prediction": "I V6 vi V43/IV IV7 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "C major", "prediction": "I V6 vi IV V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "D major", "prediction": "V I6 IV IV7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "E major", "prediction": "I V6 vi viio6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "F# major", "prediction": "V I6 viio6/ii ii7 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8a19dd2a8a", "key": "G major", "prediction": "I6 V6 vi V43/IV IV7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "A minor", "prediction": "i VI iv V65/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "Bb minor", "prediction": "i V6 i64 V43/iv iv V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "C# minor", "prediction": "i V6 i6 iv V43/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "Eb minor", "prediction": "i V6 i6 iv64 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "F minor", "prediction": "i V6 iio6 V43 I V7/III III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "F# minor", "prediction": "i V6 iio6 V i V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8af25707f5", "key": "G# minor", "prediction": "i V6 i64 V43/V V7 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "A major", "prediction": "I V6 viio7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "B major", "prediction": "I V6 viio7/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "C major", "prediction": "I V6 V7 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "D major", "prediction": "I V6 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "E major", "prediction": "I V6 viio7/V V6/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8b75ca4143", "key": "G major", "prediction": "I V6 IVM7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Ab major", "prediction": "I V6 IVM7 I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Bb major", "prediction": "I V6 IVM7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "C major", "prediction": "I64 V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Db major", "prediction": "I64 V65 viio7/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "Eb major", "prediction": "I V6 viio7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ddfcf0470", "key": "F major", "prediction": "I V6 IVM7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "Ab major", "prediction": "viio6 I64 V7/vi viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "Bb major", "prediction": "V65 I vii%7/IV V7/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "C major", "prediction": "V6 I6 ii7 V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "Eb major", "prediction": "V65 I viio7/V V7/ii ii7 V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "F major", "prediction": "V65 I viio6/ii ii7 V7/vi viio7/IV IV7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "8ed8473acf", "key": "G major", "prediction": "V6 I6 ii7 V65/V V7/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "Bb major", "prediction": "I V6 vi\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "C major", "prediction": "I V6 viio6/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "D major", "prediction": "I V6 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "Eb major", "prediction": "I V6 viio6/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "F major", "prediction": "I V6 viio6/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "90e8f72562", "key": "G major", "prediction": "I6 V65 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "A minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "B minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "C# minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "D minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "E minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921af101e5", "key": "F# minor", "prediction": "i V6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "A major", "prediction": "I V6 I6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "Ab major", "prediction": "I V6 I6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "B major", "prediction": "I V6 I6 viio6/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "C major", "prediction": "I V6 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "Db major", "prediction": "I V6 I64 V7/IV IV\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "E major", "prediction": "I V6 viio6 I64 V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "921df18acc", "key": "F# major", "prediction": "V I64 V43 I6 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "A major", "prediction": "I V6 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "B major", "prediction": "I V6 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "C major", "prediction": "I V6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "D major", "prediction": "I V6 vi\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "E major", "prediction": "I V6 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "95c5f19123", "key": "G major", "prediction": "I V6 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "A major", "prediction": "I6 V65 I V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "B major", "prediction": "I V6 viio6/ii ii%7 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "C major", "prediction": "I V6 I V7 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "D major", "prediction": "I V65 I V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "E major", "prediction": "I V65 I V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "972d7a23e7", "key": "G major", "prediction": "I V65 I V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "Ab major", "prediction": "I V6 I6 IV6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "Bb major", "prediction": "I V6 viio6/vi vi6 IV V7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "C major", "prediction": "I V6 viio6 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "Eb major", "prediction": "I V6 viio6/vi vi6 IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "F major", "prediction": "I IV6 I64 V65/V V7 I%7 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9b45cb3cf3", "key": "G major", "prediction": "I V6 viio6/vi IV6 I V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "A minor", "prediction": "i6 V iio6 V65/iv iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "Bb minor", "prediction": "i V6 iio6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "C minor", "prediction": "i6 V43/iv iv6 V65 i V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "D minor", "prediction": "i6 V65 i64 V7 i VI V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "Eb minor", "prediction": "i6 iv6 V43 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "F minor", "prediction": "i6 V65/iv iv6 V43 i V86 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9c1572913a", "key": "G minor", "prediction": "iv6 V65 i6 V43/iv iv V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "A minor", "prediction": "i V6 iio6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "B minor", "prediction": "i V6 iio6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "C# minor", "prediction": "i V6 V7/iv iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "E minor", "prediction": "i V6 iio6 V65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "F# minor", "prediction": "i V6 i64 V43 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "9ff8ea159c", "key": "G# minor", "prediction": "i V6 V43/iv iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "A minor", "prediction": "i V65/iv iv6 viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "B minor", "prediction": "i V6/iv iv6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "C# minor", "prediction": "i V6/iv iv6 viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "E minor", "prediction": "i V6/iv iv6 V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "F# minor", "prediction": "i V43/iv iv6 V7/V V65/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a0f3379bb8", "key": "G# minor", "prediction": "i V6 VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "A major", "prediction": "I6 V65 I V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "C major", "prediction": "I V6 I V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "D major", "prediction": "I V65 I V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "E major", "prediction": "I V65/vi vi V7/vi I\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "F major", "prediction": "I V65 I IVM7 V7\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a2bf123d7c", "key": "G major", "prediction": "I V65 I V7/vi vi", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "A minor", "prediction": "i V7/VI VI V7/ii ii%7 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "B minor", "prediction": "i V65 iio6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "D minor", "prediction": "i V7/III III%7 V7/III V7 i64 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "E minor", "prediction": "i V7 i6 viio7/V V65 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "F# minor", "prediction": "i V65 iio6 V43/iv iv V65 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a89fa9b306", "key": "G minor", "prediction": "i V65/VI VI V7/ii ii%7 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Ab major", "prediction": "I V6 viio6/vi I6 V%7/vi I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Bb major", "prediction": "I V6 viio6/vi vi6 V7/IV IV7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "C major", "prediction": "I V6 vi V43 I7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Db major", "prediction": "I V6 viio6 I6 ii%7 I\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "Eb major", "prediction": "I V6 viio6 I6 V7/vi I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "F major", "prediction": "I V6 viio6 I6 V7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "a90c72294d", "key": "F# major", "prediction": "I V6 viio6 I64 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Ab major", "prediction": "V64 I V7/ii ii%7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Bb major", "prediction": "V65 I viio7/V V7/vi viio6/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "C major", "prediction": "V6 viio7/V ii65 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Db major", "prediction": "V65 viio7/V V7 I64 V7/IV IV\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "Eb major", "prediction": "V6 IVM7 ii%65 V7/ii I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ae4267eec4", "key": "F major", "prediction": "V6 V65/vi viio7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "Ab major", "prediction": "I V65 I viio6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "B major", "prediction": "I V6 I IV6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "C major", "prediction": "I V6 I IV viio65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "Db major", "prediction": "I V6 I IV V7/IV I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "E major", "prediction": "I V6 I vi V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "Eb major", "prediction": "I V6 I IV V65/V V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "af17630423", "key": "F# major", "prediction": "I V65 I vi V7/vi I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "A major", "prediction": "I V6 I IV I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "B major", "prediction": "I V6 I IV I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "C major", "prediction": "I V6 I IV I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "D major", "prediction": "I V6 I IV I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "Db major", "prediction": "I V6 I IV6 I\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "E major", "prediction": "I V6 I IV I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b02cab3801", "key": "F# major", "prediction": "I V6 I vi I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "Ab major", "prediction": "V6 I64 V7/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "B major", "prediction": "viio6 I V7/vi viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "C major", "prediction": "V6 viio6 V7/vi viio6/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "Db major", "prediction": "V43 I64 V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "E major", "prediction": "viio6 V65/vi viio7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "Eb major", "prediction": "V65 I viio6/IV IV%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b4e66fb75b", "key": "F# major", "prediction": "V65 vi V43/IV IV7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "A major", "prediction": "I V6 viio65/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "Bb major", "prediction": "I V6 viio7/V V65/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "C major", "prediction": "I V65/V V7 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "D major", "prediction": "V I V7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "F major", "prediction": "I IV V65/IV IV6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b66d0a0e21", "key": "G major", "prediction": "I V6 viio65/vi I6\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "A minor", "prediction": "i V6/iv iv6 V i", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "B minor", "prediction": "i V6/iv iv6 V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "D minor", "prediction": "i V65/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "E minor", "prediction": "i V6/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "F# minor", "prediction": "i V6 viio6/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "b6a02f5c7a", "key": "G minor", "prediction": "i V43/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "A major", "prediction": "I V6 I IV6 V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "B major", "prediction": "I V6 I vi V43/IV IV7 V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "C major", "prediction": "I V6 I vi IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "D major", "prediction": "I V6 I V6/5 vi V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "E major", "prediction": "I64 V43 I IV6 ii65 V7\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "F# major", "prediction": "I V6 I IV V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ba09d50bd6", "key": "G major", "prediction": "I V6 I vi IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "A major", "prediction": "I V6 vi V42/V V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "C major", "prediction": "I V6 viio6/ii ii7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "D major", "prediction": "I V6 vi V4/vi V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "E major", "prediction": "V65 viio6/ii ii V7/vi viio7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "F major", "prediction": "I V6 viio6/ii ii%7 V7/vi viio7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "baab38764c", "key": "G major", "prediction": "V53 I6 vi V7/vi viio7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "A minor", "prediction": "i V6 V65/V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "Bb minor", "prediction": "i V6 viio7/V V65/V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "C minor", "prediction": "i V65/iv iv6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "D minor", "prediction": "i V65 viio7/V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "F minor", "prediction": "i V6 viio7/V i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bbe19a0d45", "key": "G minor", "prediction": "i V65 viio7/V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "A major", "prediction": "I V6 ii7 V65 I6 V7/vi I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "Bb major", "prediction": "I V6 viio65/vi vi6 V7/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "C major", "prediction": "I V6 ii65 I6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "D major", "prediction": "I V6 viio6/vi I6 V7/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "F major", "prediction": "I V6 viio65/V I IVM7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "bde0dcac05", "key": "G major", "prediction": "I V6 viio7/vi I V7/IV I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "A minor", "prediction": "i6 iv6 V7/V V65/iv i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "B minor", "prediction": "i6 V i64 V7/III III%7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "C# minor", "prediction": "V6 iv6 V7/iv iv7 V43 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "E minor", "prediction": "viio6 i6 V7/iv iv6 V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "F# minor", "prediction": "viio6 V iio V7/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c0730474b8", "key": "G# minor", "prediction": "i6 V6 viio7/V V65/V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "A major", "prediction": "I V6 viio6/vi vi V7/vi I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "B major", "prediction": "I V6 viio6/vi vi V7/vi I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "C major", "prediction": "I V6 viio6/vi vi V43 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "D major", "prediction": "V I6 IV V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "E major", "prediction": "V65 I vi IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "F# major", "prediction": "V I6 IV6 V43 I6 V7/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c10b416e56", "key": "G major", "prediction": "I V6 viio6/vi vi6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "A major", "prediction": "I6 V I V43/IV IV6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "C major", "prediction": "I V6 ii7 V6 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "D major", "prediction": "I V65 viio43 I6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "E major", "prediction": "V53 I6 V7/vi vi65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "F major", "prediction": "I V65 I6 V43 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c3ea5ae158", "key": "G major", "prediction": "I6 V65 vi7 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "A minor", "prediction": "i VI i6 V65 i V7/V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "Bb minor", "prediction": "i V6 iio6 iv6 V43 i V7/III III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "C minor", "prediction": "i VI V65/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "D minor", "prediction": "i VI V43 i6 V iio7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "F minor", "prediction": "i V6 VI V43 i V7/III III", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c64da6c77d", "key": "G minor", "prediction": "i V6 i6 V43 i V7/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "A major", "prediction": "I V6 viio6 I64 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "B major", "prediction": "I V6 viio6/vi V43/IV I\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "C major", "prediction": "I V6 viio6/vi viio6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "D major", "prediction": "I V6 I64 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "Db major", "prediction": "I V65 I64 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "E major", "prediction": "I V6 viio6/vi vi6 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c7a8fe3ad5", "key": "F# major", "prediction": "I V6 viio6/ii V7/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "A minor", "prediction": "i VI VI v6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "B minor", "prediction": "i V6 i6 V43/iv iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "C# minor", "prediction": "i V6 i V6 iio6 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "D minor", "prediction": "i VI VI v6 V64 V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "E minor", "prediction": "i V6 V6 iv6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "c84afc2c49", "key": "F# minor", "prediction": "i V6 V6 iv6 V i64 V%7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "A minor", "prediction": "i V6 iio6 V7/III IIIM7 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "C minor", "prediction": "i V6 VI Fr+6 V43 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "D minor", "prediction": "i V6 iio6 V43/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "E minor", "prediction": "i V6 VI V%7/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "F minor", "prediction": "i V6 iio6 V7/iv iv7 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cad3f42098", "key": "G minor", "prediction": "iv6 V65 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "A minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "B minor", "prediction": "i V6 i64 viio7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "D minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "E minor", "prediction": "i VI V6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "F# minor", "prediction": "i V6 i64 V43/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cce74dcd42", "key": "G minor", "prediction": "i V6 i64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Ab major", "prediction": "I V6 I6 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Bb major", "prediction": "V65 I viio6/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "C major", "prediction": "I64 V6 I V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Db major", "prediction": "bIII6 V65 I I6 IV\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "Eb major", "prediction": "I V6 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "cd253b9080", "key": "F major", "prediction": "V6 IV V65 I6 V7/IV IV cadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "A minor", "prediction": "i V6 iio6 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "B minor", "prediction": "i V6 i64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "Bb minor", "prediction": "i V6 i64 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "C# minor", "prediction": "i V6 iio6 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "Eb minor", "prediction": "i V6 i64 VI\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "F# minor", "prediction": "i V6 iio6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d08be1519e", "key": "G# minor", "prediction": "i V6 i64 V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "A minor", "prediction": "i V6 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "B minor", "prediction": "i V6 V/vi viio7/V V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "C# minor", "prediction": "i V6 VI V7/V V65/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "E minor", "prediction": "i V6 viio6/iv V7/iv iv6 V7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "Eb minor", "prediction": "i V6 V%7/V V65/V V7/VI VI", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "F# minor", "prediction": "i V6 V43/iv iv6 V7/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d1d8416167", "key": "G# minor", "prediction": "i V6 V/vi viio7/V V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "Ab major", "prediction": "V6 IVM7 I V7/ii ii65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "Bb major", "prediction": "V65 I viio7/V I64 V7/vi viio%7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "C major", "prediction": "I64 V65 I V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "Eb major", "prediction": "V6 I vii%7/V V65/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "F major", "prediction": "V65 I viio7/V V7/vi viio7/ii ii7 V65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d36128c05b", "key": "G major", "prediction": "V6 I%7 I64 V7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "A major", "prediction": "V64 I V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "Ab major", "prediction": "I V65 viio%7/IV IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "B major", "prediction": "I V6 viio6/vi V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "C major", "prediction": "I V6 viio7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "Db major", "prediction": "I V6/vi viio%7/IV IVM7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "E major", "prediction": "V53 I6 V7/vi vi65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d4373681bc", "key": "F# major", "prediction": "I V6 viio7/V V65/IV\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Ab major", "prediction": "I IV6 V43 I6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Bb major", "prediction": "I V6 viio6/vi viio7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "C major", "prediction": "I V6 vi V43/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Db major", "prediction": "I V6 viio6/IV IV V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "Eb major", "prediction": "I V6 viio6/vi viio6/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "F major", "prediction": "IV V65 I6 V7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7603c3c5d", "key": "F# major", "prediction": "I V6 viio6 I64 V\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "A minor", "prediction": "i VI V43 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "Bb minor", "prediction": "i V65/iv iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "C# minor", "prediction": "i V6 viio6/V V6 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "Eb minor", "prediction": "i V6/iv iv%7 i64 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "F minor", "prediction": "i VI V43 i64 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "F# minor", "prediction": "i V6 iio43 V65 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d7c6309c75", "key": "G# minor", "prediction": "i V6 VI vii%7/V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "A minor", "prediction": "i V6 viio6/V V6 V7/III III%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "B minor", "prediction": "i V6 viio6/iv iv6 V65/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "C# minor", "prediction": "i V6 viio6/iv iv6 V7/iv iv V65/iv\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "E minor", "prediction": "i V6 viio6/V V65 V7/vi viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "Eb minor", "prediction": "i V6 iio6 V65 i64 V%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "F# minor", "prediction": "i V6 V%43 iv6 V7/iv V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9632e5e9f", "key": "G# minor", "prediction": "i V6 VI V43 V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "A minor", "prediction": "i6 iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "B minor", "prediction": "i6 V43/iv iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "Bb minor", "prediction": "i V6 i64 V43/V V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "C# minor", "prediction": "V65 i V43/iv iv6 V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "Eb minor", "prediction": "i6 V43 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "F# minor", "prediction": "i6 V i64 V43/iv iv6 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "d9ab8687ee", "key": "G# minor", "prediction": "i6 V43/iv iv V65 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "A minor", "prediction": "i V6/iv iv6 V7/V V65/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "Bb minor", "prediction": "i V6 VI iv7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "C minor", "prediction": "i VI V65/V V7 VI\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "D minor", "prediction": "i V6 iio65 V7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "F minor", "prediction": "i VI V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dc8118fb51", "key": "G minor", "prediction": "i V6 VI V65/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "A major", "prediction": "I V6 I V7/vi vi V64/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "B major", "prediction": "I V6 I V65/V V V7/vi viio7/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "C major", "prediction": "I V6 I V7/vi vi ii65 I V43 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "D major", "prediction": "V I V V7/vi vi V64 I V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "Db major", "prediction": "I V6 I V7/V ii7 V7 I V7/IV IV\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "E major", "prediction": "I V65 I V65/vi vi V7 I V9 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "dd0d0157a5", "key": "F# major", "prediction": "I V6 I V7/V viio7/V V V7/IV IV V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "Ab major", "prediction": "I V6 viio65/V V7/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "Bb major", "prediction": "I V6 viio7/V V7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "C major", "prediction": "I V6 ii7 V7/V V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "Eb major", "prediction": "I V6 V7/IV IV6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "F major", "prediction": "I V65/IV IV7 bVII7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e281380faf", "key": "G major", "prediction": "I V6 vi%7 V43/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "A major", "prediction": "I6 V I IV V65/V V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "Bb major", "prediction": "I V6 viio6/vi viio7/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "C major", "prediction": "I V6 vi V7/V V", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "D major", "prediction": "I IV6 V V7/vi vi\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "F major", "prediction": "I64 V65 I V7/vi vi", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e5344f3b79", "key": "G major", "prediction": "V53 viio6 I6 V7/vi viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "A minor", "prediction": "i VI V43 i6 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "B minor", "prediction": "i V6 V/iv iv%7 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "Bb minor", "prediction": "i V6 iio6 V7/iv iv V42 i6 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "C# minor", "prediction": "i V6 V65/ii ii%7 i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "Eb minor", "prediction": "i V6/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "F# minor", "prediction": "i V6 V V7/iv iv6 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "e6f043a89a", "key": "G# minor", "prediction": "i V6 i6 V%7/V V i\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "A major", "prediction": "I V6 viio6/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "B major", "prediction": "I V6 viio6/vi V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "C major", "prediction": "I V65 I6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "D major", "prediction": "I V6 I64 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "Db major", "prediction": "I V6 I64 viio6/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "E major", "prediction": "I V6 I64 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "eb281368b9", "key": "F# major", "prediction": "I V65 I64 V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Ab major", "prediction": "I V6 viio6/vi viio7/V V7/vi viio6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Bb major", "prediction": "I V6 viio6/vi viio6 ii65 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "C major", "prediction": "I V6 vi IV6 I64 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Db major", "prediction": "I V6 viio6/vi viio6 ii6 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "Eb major", "prediction": "I V6 I64 ii65 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "F major", "prediction": "I V6 vi V43/V V65 I6 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ef800fa321", "key": "F# major", "prediction": "I V6 viio6/vi vi V43 I6 I\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "A minor", "prediction": "i i6 iv6 V6 i\ncadence: PC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "B minor", "prediction": "i V6 i64 V43/iv iv6 V7 i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "C# minor", "prediction": "i V6 i64 VI V43/V V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "E minor", "prediction": "i V6 i64 VI iv6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "F# minor", "prediction": "i V6 i64 V43 iio6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f17e9465a0", "key": "G# minor", "prediction": "i V6 i V43/iv iv V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "A major", "prediction": "I V6 viio6/vi ii7 V65/IV IV7 V7/vi viio7/ii ii%7 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "Ab major", "prediction": "I V6 viio43/V V65/IV IV ii%65 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "B major", "prediction": "I V6 viio6/vi vi7 V7/IV IV7 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "C major", "prediction": "I V6 vi V43 viiø7/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "Db major", "prediction": "I V6 viio6/vi ii%7 V7/vi vi7 I64\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "E major", "prediction": "I V6 vi V%7/V V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f255d83ca4", "key": "F# major", "prediction": "V I6 IV V65/vi vi V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "Bb major", "prediction": "I V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "C major", "prediction": "I V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "D major", "prediction": "I V6 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "Eb major", "prediction": "I V6 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "F major", "prediction": "I V6 vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f26b864346", "key": "G major", "prediction": "I V6 viio6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Ab major", "prediction": "I V6 I6 ii7 V65 I V42 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Bb major", "prediction": "I V6 I64 viio7/V V65 I V7/vi viio7/vi I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "C major", "prediction": "I V6 vi IV7 I V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Db major", "prediction": "I IV6 V65/ii ii%7 V7 I64 IVM7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "Eb major", "prediction": "I V6 I6 ii%65 I V7/IV IV7 V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "F major", "prediction": "I V6 vi V7/V IV7 I64 V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f41e2f5bc1", "key": "F# major", "prediction": "I V6 viio6/vi V65/IV IV V7/vi vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "A major", "prediction": "I6 V viio6 I64 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "B major", "prediction": "I V6 vi V7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "C major", "prediction": "I V6 vi V65/V V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "D major", "prediction": "I64 V6 vi7 V7/V I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "E major", "prediction": "V65 I vi V7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "F# major", "prediction": "V I V7/vi vi7 I\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f5becabaf2", "key": "G major", "prediction": "I V6 vi V7/IV IV6 V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "A minor", "prediction": "i V6 viio6/III V65/III IIIM7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "B minor", "prediction": "i V6 i64 V7/iv iv%7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "C minor", "prediction": "i V6 iio6 V7/V V65/iv iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "D minor", "prediction": "i V6 V65 viiø7/V V7/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "E minor", "prediction": "i V6 viio6/iv iv V65/V V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "f81f8e10b7", "key": "G minor", "prediction": "i V65 i V7/iv iv6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "A minor", "prediction": "i V%7 V7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "B minor", "prediction": "i V6 V7/V V65/iv", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "C# minor", "prediction": "i V65 iio6 V7/VI\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "E minor", "prediction": "i V7/vi viio7/V i6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "Eb minor", "prediction": "i V7/VI VI%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "F# minor", "prediction": "i V65 iio7 V7/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fcb29c503f", "key": "G# minor", "prediction": "i V65/iv iv6 V43/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "A minor", "prediction": "i V6 V65/III III+65 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "Bb minor", "prediction": "i V6 i64 V7/iv\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "C# minor", "prediction": "i V6 iv V7/V i\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "Eb minor", "prediction": "i V6 iio6 V7/V V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "F minor", "prediction": "i V6 iio6 V7/III III\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "F# minor", "prediction": "i V6 V/iv iv7 V7\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fd8db31f3d", "key": "G# minor", "prediction": "i V6 V/iv iv6 i\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "A major", "prediction": "viio43\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Ab major", "prediction": "IVM7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "B major", "prediction": "V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Bb major", "prediction": "ii%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "C major", "prediction": "ii65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "D major", "prediction": "V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Db major", "prediction": "V7/vi\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "E major", "prediction": "V65\ncadence: PAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "Eb major", "prediction": "ii%7\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "F major", "prediction": "V65/ii\ncadence: IAC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "F# major", "prediction": "viio7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "fe8a9015ef", "key": "G major", "prediction": "V7/V\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "A minor", "prediction": "i V6\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "B minor", "prediction": "i V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "C# minor", "prediction": "i V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "E minor", "prediction": "i V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "F# minor", "prediction": "i V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}
+{"shape_id": "ff3a211060", "key": "G# minor", "prediction": "i V65\ncadence: HC", "finish_reason": "stop", "reasoning": "off", "model": "deepseek/deepseek-v3.2", "prompt_version": "1"}

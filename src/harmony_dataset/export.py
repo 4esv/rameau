@@ -191,6 +191,27 @@ Metrics for the RN configs: `exact` (numerals and cadence both correct),
 `mode_acc`. Prompts are versioned in `eval/prompts.py`; parsing rules are in
 `eval/README.md`.
 
+## Results
+
+Full test split, zero-shot, temperature 0, prompt v1, run 2026-07-11 via
+OpenRouter. Cells are exact match, with per-chord accuracy in parentheses.
+Raw predictions and per-run metadata are in `results/`.
+
+| model | symbol_to_rn | notes_to_rn | pcset_to_rn | key_id |
+|---|---|---|---|---|
+| gpt-oss-120b (reasoning low) | 0.256 (0.885) | 0.155 (0.778) | 0.146 (0.724) | 0.778 |
+| Claude Sonnet 5 | 0.220 (0.863) | 0.066 (0.688) | 0.157 (0.732) | 0.823 |
+| Qwen3-235B-A22B-Instruct | 0.193 (0.739) | 0.016 (0.380) | 0.002 (0.163) | 0.719 |
+| DeepSeek-V3.2 | 0.151 (0.634) | 0.005 (0.305) | 0.001 (0.150) | 0.661 |
+| Kimi-K2.5 | 0.142 (0.562) | 0.007 (0.399) | 0.009 (0.205) | 0.788 |
+| Llama-3.3-70B | 0.037 (0.466) | 0.004 (0.307) | 0.000 (0.194) | 0.471 |
+
+No model saturates the easiest config. Models that do not reason drop toward
+zero once the chord symbols disappear; the two that do degrade more slowly.
+Claude Sonnet 5 scores higher on pitch classes than on spelled notes, which
+suggests spelling rather than harmony is its bottleneck. The table cost about
+nine dollars in API credits.
+
 ## Reproduce
 
 The full generation pipeline ships in this repo (`src/harmony_dataset/`):
