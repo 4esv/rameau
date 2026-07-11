@@ -73,7 +73,7 @@ license: cc-by-4.0
 language:
   - en
 task_categories:
-  - text2text-generation
+  - text-generation
 tags:
   - music
   - music-theory
