@@ -43,15 +43,21 @@ def load_records(config: str, split: str, data_dir: Path) -> list[dict]:
 
 
 def complete(base_url: str, api_key: str, model: str, prompt: str,
-             temperature: float, max_tokens: int) -> tuple[str, str | None]:
+             temperature: float, max_tokens: int,
+             reasoning: str | None = None) -> tuple[str, str | None]:
     """Return (content, finish_reason). finish_reason 'length' with empty
     content usually means a thinking model spent max_tokens on reasoning."""
-    body = json.dumps({
+    payload: dict = {
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": temperature,
         "max_tokens": max_tokens,
-    }).encode()
+    }
+    if reasoning == "off":
+        payload["reasoning"] = {"enabled": False}  # OpenRouter-style
+    elif reasoning:
+        payload["reasoning"] = {"effort": reasoning}
+    body = json.dumps(payload).encode()
     req = urllib.request.Request(
         base_url.rstrip("/") + "/chat/completions",
         data=body,
@@ -89,6 +95,9 @@ def main() -> None:
     ap.add_argument("--prompt-suffix", default="",
                     help="appended to every prompt, e.g. ' /no_think' for Qwen3 "
                          "on ollama; recorded in the output rows")
+    ap.add_argument("--reasoning", choices=["off", "low", "medium", "high"],
+                    help="OpenRouter-style reasoning control; recorded in the "
+                         "output rows. Omit for endpoints that reject the field.")
     args = ap.parse_args()
 
     records = load_records(args.config, args.split, args.data_dir)
@@ -100,7 +109,7 @@ def main() -> None:
         finish = err = None
         try:
             pred, finish = complete(args.base_url, args.api_key, args.model, prompt,
-                                    args.temperature, args.max_tokens)
+                                    args.temperature, args.max_tokens, args.reasoning)
         except RuntimeError as exc:
             pred, err = "", str(exc)
         return {
@@ -110,6 +119,7 @@ def main() -> None:
             "finish_reason": finish,
             **({"error": err} if err else {}),
             **({"prompt_suffix": args.prompt_suffix} if args.prompt_suffix else {}),
+            **({"reasoning": args.reasoning} if args.reasoning else {}),
             "model": args.model,
             "prompt_version": PROMPT_VERSION,
         }
