@@ -11,6 +11,12 @@ budget thinking and answered nothing on 10% of `notes_to_rn`); Claude Sonnet 5,
 DeepSeek-V3.2, and Kimi-K2.5 ran with reasoning disabled; Qwen3-235B-Instruct
 and Llama-3.3-70B do not reason.
 
+`reasoning/` holds the reasoning-on comparison runs: same prompts, reasoning
+effort high, `max_tokens` 8192, on fixed subsets of test (first 200 records
+per config; 150 for Kimi-K2.5, 100 for Claude Sonnet 5). Score them against
+the same records from the parent directories for the paired comparison;
+`reasoning/scores.json` has both sides precomputed.
+
 Reproduce a run:
 
 ```bash

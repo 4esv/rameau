@@ -1,0 +1,150 @@
+{"shape_id": "014e86bb35", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "Bb major", "prediction": "Bb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "F major", "prediction": "F major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "014e86bb35", "key": "G major", "prediction": "G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "A minor", "prediction": " A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "Bb minor", "prediction": "Bb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "C minor", "prediction": "C minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "D minor", "prediction": "D minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "Eb minor", "prediction": "Eb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "F minor", "prediction": "F minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "040e2732ae", "key": "G minor", "prediction": " G minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Ab major", "prediction": "Ab major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Db major", "prediction": "Db major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "E major", "prediction": "E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "Eb major", "prediction": "Eb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "089064465f", "key": "F# major", "prediction": "F# major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "B minor", "prediction": "B minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "D minor", "prediction": "D minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "E minor", "prediction": " E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "F# minor", "prediction": "F# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "08e8cf6a1a", "key": "G minor", "prediction": "G minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "Bb major", "prediction": " Bb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "Eb major", "prediction": "Eb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "F major", "prediction": "F major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0916b240b6", "key": "G major", "prediction": "G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "B minor", "prediction": "B minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "C# minor", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "D minor", "prediction": "D minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "E minor", "prediction": "E minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0a05dfaa6d", "key": "F# minor", "prediction": "F# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Ab major", "prediction": " Ab major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Bb major", "prediction": " Bb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Db major", "prediction": "Db major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "Eb major", "prediction": "Eb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0e1a101682", "key": "F# major", "prediction": "F# major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "Bb major", "prediction": "Bb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "C major", "prediction": " C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "F major", "prediction": "F major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "0ef6c45d8d", "key": "G major", "prediction": "G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "B minor", "prediction": "B minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "Bb minor", "prediction": "Bb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "C# minor", "prediction": "C# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "Eb minor", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "F# minor", "prediction": "F# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "11348bddfa", "key": "G# minor", "prediction": "G# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "Ab major", "prediction": "Ab major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "Db major", "prediction": " Db major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "E major", "prediction": "E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "12fa680cf8", "key": "F# major", "prediction": "F# major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "D major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "E major", "prediction": "E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "131d5a6ffb", "key": "G major", "prediction": "G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "Bb major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "D major", "prediction": " D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "F major", "prediction": " F major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "13a86b2349", "key": "G major", "prediction": " G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "C major", "prediction": " C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "E major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "F# major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "14dd49947e", "key": "G major", "prediction": "G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "B minor", "prediction": "B minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "C# minor", "prediction": " C# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "E minor", "prediction": "E minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "Eb minor", "prediction": "Eb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "F# minor", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "16d09b951b", "key": "G# minor", "prediction": "G# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Ab major", "prediction": "Ab major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Bb major", "prediction": "Bb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "C major", "prediction": " C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Db major", "prediction": "Db major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "Eb major", "prediction": "Eb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1708ab7b74", "key": "F major", "prediction": "F major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "A major", "prediction": " A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "E major", "prediction": " E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "F# major", "prediction": " F# major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "192706d5da", "key": "G major", "prediction": "G major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "A major", "prediction": "A major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "B major", "prediction": "B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "Db major", "prediction": " Db major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "E major", "prediction": "E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1c7652c715", "key": "F# major", "prediction": "F# major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "Bb minor", "prediction": " Bb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "C minor", "prediction": "C minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "C# minor", "prediction": "C# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "Eb minor", "prediction": "Eb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "F minor", "prediction": " F minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d2df740d4", "key": "G# minor", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "B minor", "prediction": "B minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "C minor", "prediction": " C minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "D minor", "prediction": "D minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "E minor", "prediction": "E minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1d7ad63ebb", "key": "G minor", "prediction": "G minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "B minor", "prediction": "B minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "Bb minor", "prediction": " Bb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "C# minor", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "Eb minor", "prediction": "Eb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "F# minor", "prediction": "F# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "1dc737749a", "key": "G# minor", "prediction": "G# minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "A major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "B major", "prediction": " B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "C major", "prediction": " C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "D major", "prediction": "D major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "Db major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "E major", "prediction": "E major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "2146c47ec5", "key": "F# major", "prediction": "", "finish_reason": "length", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Ab major", "prediction": "Ab major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "B major", "prediction": " B major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Bb major", "prediction": "Bb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "C major", "prediction": "C major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Db major", "prediction": "Db major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "Eb major", "prediction": "Eb major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "232d83b7f6", "key": "F# major", "prediction": "F# major", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "A minor", "prediction": "A minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "Bb minor", "prediction": "Bb minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "C minor", "prediction": "C minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "D minor", "prediction": "D minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}
+{"shape_id": "275dac3cd1", "key": "F minor", "prediction": " F minor", "finish_reason": "stop", "reasoning": "high", "model": "moonshotai/kimi-k2.5", "prompt_version": "1"}

@@ -179,6 +179,24 @@ Claude Sonnet 5 scores higher on pitch classes than on spelled notes, which
 suggests spelling rather than harmony is its bottleneck. The table cost about
 nine dollars in API credits.
 
+### Reasoning on vs off
+
+Same records, same prompts, reasoning toggled, on fixed test subsets (n in the
+table). Exact match on `notes_to_rn`:
+
+| model | n | off | on |
+|---|---|---|---|
+| Kimi-K2.5 | 150 | 0.000 | 0.740 |
+| DeepSeek-V3.2 | 200 | 0.025 | 0.725 |
+| Claude Sonnet 5 | 100 | 0.090 | 0.520 |
+| gpt-oss-120b (low -> high) | 200 | 0.185 | 0.440 |
+
+The pattern holds on every config; full numbers are in `results/reasoning/`.
+With thinking enabled, per-chord accuracy reaches 0.89 to 0.98 on the hidden
+configs, so the remaining exact-match gap is mostly cadence and figure errors.
+Without thinking the benchmark measures pattern recall; with thinking it
+measures multi-step computation. Neither saturates it.
+
 ## Reproduce
 
 The full generation pipeline ships in this repo (`src/harmony_dataset/`):

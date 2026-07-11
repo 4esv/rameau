@@ -1,0 +1,307 @@
+{
+  "gpt-oss-120b high vs low": {
+    "symbol_to_rn": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.58,
+        "labels_exact": 0.715,
+        "chord_acc": 0.8737,
+        "cadence_acc": 0.745,
+        "parse_failures": 13
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.255,
+        "labels_exact": 0.515,
+        "chord_acc": 0.8717,
+        "cadence_acc": 0.4,
+        "parse_failures": 0
+      }
+    },
+    "notes_to_rn": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.44,
+        "labels_exact": 0.575,
+        "chord_acc": 0.7355,
+        "cadence_acc": 0.615,
+        "parse_failures": 38
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.185,
+        "labels_exact": 0.35,
+        "chord_acc": 0.7675,
+        "cadence_acc": 0.415,
+        "parse_failures": 0
+      }
+    },
+    "pcset_to_rn": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.535,
+        "labels_exact": 0.58,
+        "chord_acc": 0.7495,
+        "cadence_acc": 0.735,
+        "parse_failures": 35
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.12,
+        "labels_exact": 0.26,
+        "chord_acc": 0.7234,
+        "cadence_acc": 0.38,
+        "parse_failures": 1
+      }
+    },
+    "key_id": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.855,
+        "tonic_acc": 0.855,
+        "mode_acc": 0.89,
+        "parse_failures": 20
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.785,
+        "tonic_acc": 0.805,
+        "mode_acc": 0.835,
+        "parse_failures": 7
+      }
+    }
+  },
+  "DeepSeek-V3.2 on vs off": {
+    "symbol_to_rn": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.805,
+        "labels_exact": 0.805,
+        "chord_acc": 0.9539,
+        "cadence_acc": 0.995,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.145,
+        "labels_exact": 0.195,
+        "chord_acc": 0.5721,
+        "cadence_acc": 0.52,
+        "parse_failures": 0
+      }
+    },
+    "notes_to_rn": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.725,
+        "labels_exact": 0.895,
+        "chord_acc": 0.9679,
+        "cadence_acc": 0.8,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.025,
+        "labels_exact": 0.03,
+        "chord_acc": 0.2946,
+        "cadence_acc": 0.46,
+        "parse_failures": 0
+      }
+    },
+    "pcset_to_rn": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.77,
+        "labels_exact": 0.775,
+        "chord_acc": 0.8858,
+        "cadence_acc": 0.925,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.005,
+        "labels_exact": 0.005,
+        "chord_acc": 0.1563,
+        "cadence_acc": 0.355,
+        "parse_failures": 0
+      }
+    },
+    "key_id": {
+      "n": 200,
+      "on": {
+        "n": 200,
+        "exact": 0.94,
+        "tonic_acc": 0.945,
+        "mode_acc": 0.96,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 200,
+        "exact": 0.63,
+        "tonic_acc": 0.77,
+        "mode_acc": 0.72,
+        "parse_failures": 0
+      }
+    }
+  },
+  "Kimi-K2.5 on vs off": {
+    "symbol_to_rn": {
+      "n": 150,
+      "on": {
+        "n": 150,
+        "exact": 0.9067,
+        "labels_exact": 0.9067,
+        "chord_acc": 0.926,
+        "cadence_acc": 0.9267,
+        "parse_failures": 9
+      },
+      "off": {
+        "n": 150,
+        "exact": 0.1067,
+        "labels_exact": 0.2067,
+        "chord_acc": 0.5178,
+        "cadence_acc": 0.5733,
+        "parse_failures": 29
+      }
+    },
+    "notes_to_rn": {
+      "n": 150,
+      "on": {
+        "n": 150,
+        "exact": 0.74,
+        "labels_exact": 0.94,
+        "chord_acc": 0.9808,
+        "cadence_acc": 0.7733,
+        "parse_failures": 1
+      },
+      "off": {
+        "n": 150,
+        "exact": 0.0,
+        "labels_exact": 0.0267,
+        "chord_acc": 0.3918,
+        "cadence_acc": 0.6,
+        "parse_failures": 9
+      }
+    },
+    "pcset_to_rn": {
+      "n": 150,
+      "on": {
+        "n": 150,
+        "exact": 0.84,
+        "labels_exact": 0.84,
+        "chord_acc": 0.9068,
+        "cadence_acc": 0.92,
+        "parse_failures": 10
+      },
+      "off": {
+        "n": 150,
+        "exact": 0.0133,
+        "labels_exact": 0.02,
+        "chord_acc": 0.1945,
+        "cadence_acc": 0.28,
+        "parse_failures": 36
+      }
+    },
+    "key_id": {
+      "n": 150,
+      "on": {
+        "n": 150,
+        "exact": 0.9133,
+        "tonic_acc": 0.92,
+        "mode_acc": 0.9133,
+        "parse_failures": 12
+      },
+      "off": {
+        "n": 150,
+        "exact": 0.76,
+        "tonic_acc": 0.8267,
+        "mode_acc": 0.8333,
+        "parse_failures": 7
+      }
+    }
+  },
+  "Qwen3-235B Thinking vs Instruct (checkpoint pair)": {},
+  "Claude Sonnet 5 on vs off": {
+    "symbol_to_rn": {
+      "n": 100,
+      "on": {
+        "n": 100,
+        "exact": 0.59,
+        "labels_exact": 0.91,
+        "chord_acc": 0.982,
+        "cadence_acc": 0.66,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 100,
+        "exact": 0.22,
+        "labels_exact": 0.51,
+        "chord_acc": 0.8403,
+        "cadence_acc": 0.44,
+        "parse_failures": 0
+      }
+    },
+    "notes_to_rn": {
+      "n": 100,
+      "on": {
+        "n": 100,
+        "exact": 0.52,
+        "labels_exact": 0.83,
+        "chord_acc": 0.9581,
+        "cadence_acc": 0.67,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 100,
+        "exact": 0.09,
+        "labels_exact": 0.27,
+        "chord_acc": 0.7206,
+        "cadence_acc": 0.26,
+        "parse_failures": 0
+      }
+    },
+    "pcset_to_rn": {
+      "n": 100,
+      "on": {
+        "n": 100,
+        "exact": 0.66,
+        "labels_exact": 0.81,
+        "chord_acc": 0.9561,
+        "cadence_acc": 0.78,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 100,
+        "exact": 0.14,
+        "labels_exact": 0.3,
+        "chord_acc": 0.7325,
+        "cadence_acc": 0.41,
+        "parse_failures": 0
+      }
+    },
+    "key_id": {
+      "n": 100,
+      "on": {
+        "n": 100,
+        "exact": 0.96,
+        "tonic_acc": 0.96,
+        "mode_acc": 0.98,
+        "parse_failures": 0
+      },
+      "off": {
+        "n": 100,
+        "exact": 0.86,
+        "tonic_acc": 0.86,
+        "mode_acc": 0.91,
+        "parse_failures": 0
+      }
+    }
+  }
+}
