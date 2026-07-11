@@ -1,47 +1,43 @@
 # Rameau evaluation protocol
 
-Gold labels are deterministic and machine-verified, so scoring is **exact
-match** — no LLM judge, no partial credit beyond the metrics defined below.
+Gold is deterministic, so scoring is exact match. No LLM judge.
 
 ## Protocol
 
-- **Split:** `test` (leakage-free by construction: no progression shape in
-  `test` appears in `train`/`validation` in any key or any task framing).
-- **Prompts:** zero-shot, versioned in `prompts.py` (`PROMPT_VERSION`).
-  Scores are comparable only at equal prompt versions.
-- **Decoding:** temperature 0. `run_model.py` defaults to this.
+- Split: `test`. Leakage-free by construction; no shape in test appears in
+  train or validation, in any key or framing.
+- Prompts: zero-shot, versioned in `prompts.py`. Scores are comparable only at
+  equal `PROMPT_VERSION`.
+- Decoding: temperature 0. Set `max_tokens` high enough that it never binds.
+  A reasoning model that spends its whole budget thinking returns nothing,
+  and nothing scores nothing.
 
 ## Running
 
 ```bash
-# any OpenAI-compatible endpoint (ollama, vLLM, LM Studio, OpenAI, OpenRouter)
 python eval/run_model.py --config notes_to_rn --model <model> --out preds.jsonl
 python eval/score.py preds.jsonl --config notes_to_rn --split test
 ```
 
-Both scripts are stdlib-only. Predictions are JSONL rows carrying
-`shape_id` + `key` (joined against gold) and a `prediction` string.
+Both scripts are stdlib-only. `run_model.py` speaks to any OpenAI-compatible
+endpoint (ollama, vLLM, OpenAI, OpenRouter). Predictions carry `shape_id` and
+`key` for joining, plus the model, prompt version, reasoning setting, and
+finish reason, so a predictions file documents its own run.
 
-## Parsing (lenient wrapper, strict answer)
+## Parsing
 
-Before comparison the scorer:
+The scorer is lenient about wrapping and strict about the answer. It strips
+code fences and surrounding prose (the answer is read from the last matching
+lines), maps unicode music symbols to the dataset's ASCII (`b`, `#`, `o`, `%`),
+and drops separator tokens between numerals. It does not forgive wrong case:
+`i64` is not `I64`, and minor versus major is usually the question.
 
-- strips markdown code fences and surrounding prose (the answer is taken from
-  the **last** matching lines of the response);
-- maps unicode music symbols to the dataset's ASCII conventions
-  (`♭→b`, `♯→#`, `°→o`, `ø→%`, superscript digits → digits);
-- drops separator tokens between numerals (`–`, `|`, `,`, `·`, `->`).
-
-It does **not** forgive wrong case (`i64` ≠ `I64` — minor vs major tonic is
-the answer), wrong figures, or missing chords.
+Unparseable responses count as wrong and are tallied in `parse_failures`, so
+format problems stay visible instead of hiding in the accuracy.
 
 ## Metrics
 
 | config | metrics |
 |---|---|
-| `*_to_rn` | `exact` (labels **and** cadence correct — headline), `labels_exact`, `chord_acc` (positional), `cadence_acc`, `parse_failures` |
-| `key_id` | `exact` (headline), `tonic_acc`, `mode_acc`, `parse_failures` |
-
-A record whose response cannot be parsed at all counts as wrong (and is
-reported in `parse_failures` so prompt-format problems are visible rather
-than silently penalized).
+| `*_to_rn` | `exact` (labels and cadence both correct), `labels_exact`, `chord_acc` (positional), `cadence_acc`, `parse_failures` |
+| `key_id` | `exact`, `tonic_acc`, `mode_acc`, `parse_failures` |
