@@ -43,7 +43,9 @@ def load_records(config: str, split: str, data_dir: Path) -> list[dict]:
 
 
 def complete(base_url: str, api_key: str, model: str, prompt: str,
-             temperature: float, max_tokens: int) -> str:
+             temperature: float, max_tokens: int) -> tuple[str, str | None]:
+    """Return (content, finish_reason). finish_reason 'length' with empty
+    content usually means a thinking model spent max_tokens on reasoning."""
     body = json.dumps({
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
@@ -61,7 +63,8 @@ def complete(base_url: str, api_key: str, model: str, prompt: str,
         try:
             with urllib.request.urlopen(req, timeout=300) as resp:
                 data = json.load(resp)
-            return data["choices"][0]["message"]["content"]
+            choice = data["choices"][0]
+            return choice["message"]["content"], choice.get("finish_reason")
         except (urllib.error.URLError, KeyError, json.JSONDecodeError) as exc:
             last_err = exc
             time.sleep(2**attempt)
@@ -83,6 +86,9 @@ def main() -> None:
     ap.add_argument("--temperature", type=float, default=0.0)
     ap.add_argument("--max-tokens", type=int, default=512)
     ap.add_argument("--concurrency", type=int, default=4)
+    ap.add_argument("--prompt-suffix", default="",
+                    help="appended to every prompt, e.g. ' /no_think' for Qwen3 "
+                         "on ollama; recorded in the output rows")
     args = ap.parse_args()
 
     records = load_records(args.config, args.split, args.data_dir)
@@ -90,18 +96,20 @@ def main() -> None:
         records = records[: args.limit]
 
     def run_one(rec: dict) -> dict:
-        prompt = build_prompt(args.config, rec["input"])
+        prompt = build_prompt(args.config, rec["input"]) + args.prompt_suffix
+        finish = err = None
         try:
-            pred = complete(args.base_url, args.api_key, args.model, prompt,
-                            args.temperature, args.max_tokens)
-            err = None
+            pred, finish = complete(args.base_url, args.api_key, args.model, prompt,
+                                    args.temperature, args.max_tokens)
         except RuntimeError as exc:
             pred, err = "", str(exc)
         return {
             "shape_id": rec["shape_id"],
             "key": rec["key"],
             "prediction": pred,
+            "finish_reason": finish,
             **({"error": err} if err else {}),
+            **({"prompt_suffix": args.prompt_suffix} if args.prompt_suffix else {}),
             "model": args.model,
             "prompt_version": PROMPT_VERSION,
         }
