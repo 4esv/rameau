@@ -70,7 +70,9 @@ def complete(base_url: str, api_key: str, model: str, prompt: str,
             with urllib.request.urlopen(req, timeout=300) as resp:
                 data = json.load(resp)
             choice = data["choices"][0]
-            return choice["message"]["content"], choice.get("finish_reason")
+            # reasoning models can return null content when the token budget
+            # is exhausted mid-thought; normalize to empty string
+            return choice["message"]["content"] or "", choice.get("finish_reason")
         except (urllib.error.URLError, KeyError, json.JSONDecodeError) as exc:
             last_err = exc
             time.sleep(2**attempt)
