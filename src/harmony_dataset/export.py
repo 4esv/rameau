@@ -84,6 +84,8 @@ tags:
   - key-detection
   - benchmark
   - synthetic
+  - mir
+  - symbolic-music
 size_categories:
   - {size_cat}
 annotations_creators:
@@ -214,8 +216,8 @@ nine dollars in API credits.
 
 ### Reasoning on vs off
 
-Same records, same prompts, reasoning toggled, on fixed test subsets (n in the
-table). Exact match on `notes_to_rn`:
+Fixed test subsets rerun with reasoning enabled; n in the table. Exact match
+on `notes_to_rn`:
 
 | model | n | off | on |
 |---|---|---|---|
@@ -268,7 +270,7 @@ the underlying facts are not copyrightable and no source corpus is redistributed
   author = {{Stevens, Axel}},
   year   = {{2026}},
   url    = {{https://huggingface.co/datasets/4esv/rameau}},
-  note   = {{Synthetic, grammar-generated, music21-verified, DCML-convention labels}}
+  note   = {{Synthetic, music21-verified, DCML labels}}
 }}
 ```
 """
