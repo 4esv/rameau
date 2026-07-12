@@ -83,11 +83,11 @@ Load one with `load_dataset("4esv/rameau", "<config>")`. Default: `notes_to_rn`.
 
 | config | task | rows |
 |---|---|---|
-| `symbol_to_rn` | key + chord symbols -> Roman numerals + cadence (easy: chord quality is given) | 5715 |
-| `notes_to_rn` | key + spelled notes -> Roman numerals + cadence (must read each chord) | 5715 |
-| `pcset_to_rn` | key + bass-first pitch-class lists -> Roman numerals + cadence (no spelling) | 5715 |
-| `key_id` | spelled notes, no key -> identify the key (only key-unambiguous phrases) | 4795 |
-| | **total** | **21940** |
+| `symbol_to_rn` | key + chord symbols -> Roman numerals + cadence (easy: chord quality is given) | 5,715 |
+| `notes_to_rn` | key + spelled notes -> Roman numerals + cadence (must read each chord) | 5,715 |
+| `pcset_to_rn` | key + bass-first pitch-class lists -> Roman numerals + cadence (no spelling) | 5,715 |
+| `key_id` | spelled notes, no key -> identify the key (only key-unambiguous phrases) | 4,795 |
+| | **total** | **21,940** |
 
 ## Gold labels
 
@@ -97,16 +97,17 @@ generates each progression together with its intended analysis. Every chord is
 then derived two independent ways with [`music21`](https://web.mit.edu/music21/):
 the Roman-numeral figure through the roman engine, and the printed chord symbol
 through the chord-symbol parser. An item is kept only if both agree on
-pitch-class set and bass. This release: 27480 of
-27480 chords agree. See `VERIFY.md`.
+pitch-class set and bass.
+This release: 27,480 of 27,480 chords agree. See `VERIFY.md`.
 
 Built from 845 progression shapes (key-independent), transposed across
 keys. All content is synthetic; no third-party corpus is redistributed.
 
 ## Label convention
 
-Roman numerals follow the [DCML harmony standard](https://github.com/DCMLab/standards)'s
-feature decomposition (`numeral` / `form` / `figbass` / `changes` / `relativeroot`).
+Roman numerals follow the feature decomposition of the
+[DCML harmony standard](https://github.com/DCMLab/standards)
+(`numeral` / `form` / `figbass` / `changes` / `relativeroot`).
 We follow the notation and copy no DCML data. Major-seventh tonic is `IM7`;
 secondary dominants use `/` (e.g. `V7/vi`).
 Cadence codes: `PAC` perfect authentic, `IAC` imperfect authentic, `HC` half, `DC` deceptive, `PC` plagal.
@@ -127,7 +128,7 @@ before calling `ChordSymbol` or `Pitch`.
 The atomic unit is a shape, a key-independent Roman-numeral sequence. A shape
 hashes to exactly one split, so none of its transpositions or task framings
 crosses splits. The test split doubles as the benchmark. Rows:
-train 14725 / validation 3571 / test 3644.
+train 14,725 / validation 3,571 / test 3,644.
 
 ## Known limitations
 

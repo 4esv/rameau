@@ -65,7 +65,7 @@ def render_card(res: GenResult, buckets: dict) -> str:
     per_split = Counter(r.split for r in res.records)
     size_cat = "10K<n<100K" if 10_000 <= total < 100_000 else "1K<n<10K" if total >= 1_000 else "n<1K"
     task_rows = "\n".join(
-        f"| `{t}` | {TASK_BLURB[t]} | {per_task[t]} |" for t in tasks.TASKS
+        f"| `{t}` | {TASK_BLURB[t]} | {per_task[t]:,} |" for t in tasks.TASKS
     )
     return f"""---
 pretty_name: "Rameau: Functional Harmony from Notation (Roman Numerals, Cadence, Key)"
@@ -120,7 +120,7 @@ Load one with `load_dataset("4esv/rameau", "<config>")`. Default: `{DEFAULT_CONF
 | config | task | rows |
 |---|---|---|
 {task_rows}
-| | **total** | **{total}** |
+| | **total** | **{total:,}** |
 
 ## Gold labels
 
@@ -130,16 +130,17 @@ generates each progression together with its intended analysis. Every chord is
 then derived two independent ways with [`music21`](https://web.mit.edu/music21/):
 the Roman-numeral figure through the roman engine, and the printed chord symbol
 through the chord-symbol parser. An item is kept only if both agree on
-pitch-class set and bass. This release: {res.attempted_chords - len(res.failures)} of
-{res.attempted_chords} chords agree. See `VERIFY.md`.
+pitch-class set and bass.
+This release: {res.attempted_chords - len(res.failures):,} of {res.attempted_chords:,} chords agree. See `VERIFY.md`.
 
 Built from {res.shapes} progression shapes (key-independent), transposed across
 keys. All content is synthetic; no third-party corpus is redistributed.
 
 ## Label convention
 
-Roman numerals follow the [DCML harmony standard](https://github.com/DCMLab/standards)'s
-feature decomposition (`numeral` / `form` / `figbass` / `changes` / `relativeroot`).
+Roman numerals follow the feature decomposition of the
+[DCML harmony standard](https://github.com/DCMLab/standards)
+(`numeral` / `form` / `figbass` / `changes` / `relativeroot`).
 We follow the notation and copy no DCML data. Major-seventh tonic is `IM7`;
 secondary dominants use `/` (e.g. `V7/vi`).
 Cadence codes: {", ".join(f"`{k}` {v}" for k, v in CADENCE_GLOSS.items())}.
@@ -160,7 +161,7 @@ before calling `ChordSymbol` or `Pitch`.
 The atomic unit is a shape, a key-independent Roman-numeral sequence. A shape
 hashes to exactly one split, so none of its transpositions or task framings
 crosses splits. The test split doubles as the benchmark. Rows:
-train {per_split['train']} / validation {per_split['validation']} / test {per_split['test']}.
+train {per_split['train']:,} / validation {per_split['validation']:,} / test {per_split['test']:,}.
 
 ## Known limitations
 
