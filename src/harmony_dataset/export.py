@@ -269,6 +269,7 @@ the underlying facts are not copyrightable and no source corpus is redistributed
   title  = {{Rameau: Functional Harmony from Notation (Roman Numerals, Cadence, Key)}},
   author = {{Stevens, Axel}},
   year   = {{2026}},
+  doi    = {{10.57967/hf/9570}},
   url    = {{https://huggingface.co/datasets/4esv/rameau}},
   note   = {{Synthetic, music21-verified, DCML labels}}
 }}
