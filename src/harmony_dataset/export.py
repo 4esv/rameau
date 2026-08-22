@@ -68,7 +68,7 @@ def render_card(res: GenResult, buckets: dict) -> str:
         f"| `{t}` | {TASK_BLURB[t]} | {per_task[t]:,} |" for t in tasks.TASKS
     )
     return f"""---
-pretty_name: "Rameau: Functional Harmony from Notation (Roman Numerals, Cadence, Key)"
+pretty_name: "Roman Numeral Harmony Benchmark: Functional Harmony from Notation"
 license: cc-by-4.0
 language:
   - en
@@ -83,6 +83,8 @@ tags:
   - cadence
   - key-detection
   - benchmark
+  - evaluation
+  - reasoning
   - synthetic
   - mir
   - symbolic-music
@@ -95,16 +97,13 @@ source_datasets:
 {_configs_yaml()}
 ---
 
-# Rameau: functional harmony from notation
+# Roman Numeral Harmony Benchmark
 
 A text-to-text dataset and benchmark for functional harmony: Roman-numeral
 analysis, cadence classification, and key identification. A probabilistic
 common-practice grammar generates the progressions; four task framings hide
 the answer to increasing degrees. Chord-symbol lookup stops working after the
 first one.
-
-Named for Jean-Philippe Rameau, whose *Traité de l'harmonie* (1722) started
-the discipline.
 
 ```
 symbol_to_rn  key: C major / progression: Dm7 G7 Cmaj7   ->  ii7 V7 IM7 / cadence: PAC
@@ -115,7 +114,7 @@ key_id        notes: D4 F4 A4 C5 | G3 B3 D4 F4 | ...      ->  C major
 
 ## Configs (tasks)
 
-Load one with `load_dataset("4esv/rameau", "<config>")`. Default: `{DEFAULT_CONFIG}`.
+Load one with `load_dataset("4esv/roman-numeral-harmony-benchmark", "<config>")`. Default: `{DEFAULT_CONFIG}`.
 
 | config | task | rows |
 |---|---|---|
@@ -246,16 +245,16 @@ uv run python -m harmony_dataset.export    # regenerates data/, README, VERIFY.m
 
 - [MusicTheoryBench](https://huggingface.co/datasets/m-a-p/MusicTheoryBench)
   (ChatMusician, 2024): 372 hand-written multiple-choice questions on broad
-  music knowledge. Rameau is generative and machine-verified.
+  music knowledge. This benchmark is generative and machine-verified.
 - [Harmonic Reasoning in LLMs](https://arxiv.org/abs/2409.05521) (Kruspe, 2024):
   synthetic interval, chord, and scale identification. No key context, so
   identification rather than functional analysis.
 - [Teaching LLMs Music Theory](https://arxiv.org/abs/2503.22853)
   (Pond & Fujinaga, 2025): one RCM Level 6 exam in four encodings, with
-  prompting strategies. Rameau frames the same progressions in each
+  prompting strategies. This benchmark frames the same progressions in each
   representation, so representation is the only variable.
 - Score-based Roman-numeral analysis (Micchi et al., AugmentedNet, AnalysisGNN):
-  specialist models trained on NC-licensed annotated corpora. Rameau targets
+  specialist models trained on NC-licensed annotated corpora. This benchmark targets
   text models and generates its own data, which is what keeps the license CC-BY.
 
 ## Licensing
@@ -266,12 +265,12 @@ the underlying facts are not copyrightable and no source corpus is redistributed
 ## Citation
 
 ```
-@misc{{rameau,
-  title  = {{Rameau: Functional Harmony from Notation (Roman Numerals, Cadence, Key)}},
+@misc{{rnharmonybench,
+  title  = {{Roman Numeral Harmony Benchmark: Functional Harmony from Notation}},
   author = {{Stevens, Axel}},
   year   = {{2026}},
   doi    = {{10.57967/hf/9570}},
-  url    = {{https://huggingface.co/datasets/4esv/rameau}},
+  url    = {{https://huggingface.co/datasets/4esv/roman-numeral-harmony-benchmark}},
   note   = {{Synthetic, music21-verified, DCML labels}}
 }}
 ```

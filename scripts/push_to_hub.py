@@ -9,7 +9,7 @@ from pathlib import Path
 
 from huggingface_hub import HfApi
 
-REPO_ID = "4esv/rameau"
+REPO_ID = "4esv/roman-numeral-harmony-benchmark"
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
 IGNORE = [
@@ -33,7 +33,7 @@ def main() -> None:
         repo_type="dataset",
         folder_path=REPO_ROOT,
         ignore_patterns=IGNORE,
-        commit_message="Rameau v1: 21,940 records, 4 configs, verified gold, eval harness",
+        commit_message="v1: 21,940 records, 4 configs, verified gold, eval harness",
     )
     print(f"pushed: https://huggingface.co/datasets/{REPO_ID}\ncommit: {info.oid}")
 

@@ -1,4 +1,4 @@
-# Rameau evaluation protocol
+# Evaluation protocol
 
 Gold is deterministic, so scoring is exact match. No LLM judge.
 
