@@ -1,0 +1,359 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{graphicx}
+
+\title{Representation Is the Variable:\\
+A Machine-Verified Benchmark for Functional Harmony}
+\author{Axel Stevens\\ \texttt{axel@aesv.io}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Language models answer music-theory questions well and analyse music badly, and
+existing benchmarks cannot separate the two because they vary the question and
+the encoding at the same time. We present a benchmark of 21{,}940 items in which
+the same harmonic content is presented in four encodings of increasing
+difficulty --- chord symbols, spelled notes, and bass-first pitch-class sets for
+Roman-numeral analysis, plus a key-identification framing --- so that
+representation is the only variable. Gold labels are never hand-annotated: a
+probabilistic common-practice grammar emits each progression together with its
+intended analysis, and every chord is then re-derived along two independent
+\texttt{music21} paths, with an item retained only if both agree on pitch-class
+set and bass. All 27{,}480 chords agree. Because no annotated corpus is
+redistributed, the benchmark carries a CC-BY-4.0 licence, unlike the
+non-commercial corpora that dominate this task. Scoring is exact match against
+deterministic gold, with no model judge. Evaluating six models zero-shot, we find
+that no model saturates even the easiest framing: the best exact match on chord
+symbols is 0.256, and models without inference-time reasoning collapse toward
+zero once chord symbols are withheld, while per-chord accuracy degrades far more
+gracefully than sequence-level exact match. A paired ablation shows the benchmark
+measures different capabilities depending on the decoding regime: with reasoning
+disabled it measures pattern recall, and with reasoning enabled it measures
+multi-step computation, with exact match rising from 0.000 to 0.740 for one model
+on the same items. Neither regime saturates it.
+\end{abstract}
+
+\section{Introduction}
+
+Roman-numeral analysis asks, of each chord in a passage, what function it serves
+relative to a tonic. It is the central skill of tonal analysis and the first one
+taught, and unlike most music-understanding tasks it has a largely
+agreed-upon symbolic answer. That makes it an unusually clean target for
+evaluating language models: the answer is a short string, it is checkable
+without a judge, and getting it right requires composing several steps ---
+identify the notes, stack them into a chord, locate the chord's root relative to
+the key, name the inversion, and decide what the final motion cadentially is.
+
+Language models appear to know a great deal of music theory when asked about it
+in prose. Whether they can perform the analysis is a separate question, and it is
+the question existing benchmarks answer least well, because they conflate two
+things. A multiple-choice item about the definition of a half cadence and an
+open-ended request to analyse a progression differ both in what is being asked
+and in how the music is encoded. If a model does well on the first and poorly on
+the second, the result is not attributable.
+
+We isolate the encoding. Every item in our benchmark is drawn from the same pool
+of progressions, and each progression is presented in more than one form:
+
+\begin{itemize}
+  \item \textbf{\texttt{symbol\_to\_rn}} gives the key and printed chord symbols
+    (\texttt{Dm7 G7 Cmaj7}). Chord quality is handed to the model; the remaining
+    work is functional.
+  \item \textbf{\texttt{notes\_to\_rn}} gives the key and spelled notes
+    (\texttt{D4 F4 A4 C5 | \dots}). The model must read each simultaneity as a
+    chord before it can name a function.
+  \item \textbf{\texttt{pcset\_to\_rn}} gives the key and bass-first pitch-class
+    integers (\texttt{[2 5 9 0] | \dots}). Spelling is gone; enharmonic
+    distinctions must be recovered from context.
+  \item \textbf{\texttt{key\_id}} withholds the key entirely and asks only for it,
+    restricted to progressions whose key is uniquely determined.
+\end{itemize}
+
+The harmonic content is fixed across the three Roman-numeral framings. Any
+difference in score between them is a difference in the model's ability to
+recover harmony from a representation, not a difference in the underlying
+question. Our contributions are:
+
+\begin{enumerate}
+  \item A benchmark of 21{,}940 items in which representation is a controlled
+    variable, built from 845 key-independent progression shapes.
+  \item A gold-label pipeline with no human annotation and a verifiable
+    agreement gate: dual derivation through two independent \texttt{music21}
+    entry points, 27{,}480 of 27{,}480 chords in agreement.
+  \item A permissive licence for a task whose standard corpora are
+    non-commercial, achieved by generating rather than redistributing.
+  \item Zero-shot results for six models and a paired reasoning-on/off ablation
+    showing that the benchmark measures a different capability in each regime.
+\end{enumerate}
+
+\section{Related work}
+
+\textbf{Music-theory question answering.} MusicTheoryBench \cite{chatmusician}
+contributes 372 hand-written multiple-choice questions spanning broad music
+knowledge. It measures recall of theory facts across many topics; we measure
+execution of one task across many encodings, and generate rather than
+hand-write, which is what lets us scale to five figures and control the
+representation.
+
+\textbf{Synthetic music reasoning.} Kruspe \cite{kruspe} generates synthetic
+interval, chord, and scale identification problems for language models. That
+work shares our generate-don't-annotate stance but supplies no key context, so
+the task is identification rather than functional analysis: a chord is named in
+isolation, not situated against a tonic.
+
+\textbf{Encoding as a variable.} Pond and Fujinaga \cite{pond} present a single
+RCM Level 6 examination in four encodings together with a study of prompting
+strategies, and are the closest prior work in spirit. Their design varies
+encoding across a small fixed instrument; ours varies encoding across thousands
+of generated items drawn from one pool, which trades their ecological validity
+for statistical power and a controlled comparison.
+
+\textbf{Specialist analysis models.} A substantial line of work trains dedicated
+models for score-based Roman-numeral analysis, including AugmentedNet
+\cite{augmentednet}, graph neural approaches \cite{rnagnn}, and AnalysisGNN
+\cite{analysisgnn}. These systems target scores rather than text prompts and
+train on human-annotated corpora --- ABC, BPS, HaydnSun, TAVERN, When-in-Rome
+\cite{wir}, WTC --- most of which are licensed non-commercially. Dilemmadata
+\cite{dilemmadata} documents the interoperability problems that follow from
+combining them. Our benchmark is complementary: it does not compete with
+specialist accuracy on real repertoire, and it is not trained on. It measures
+what general-purpose text models can do on harmony they have never been fitted
+to, under a licence that permits unrestricted use.
+
+\section{Construction}
+
+\subsection{Grammar}
+
+Progressions are emitted by a probabilistic grammar over common-practice
+functional syntax: a tonic region, an optional predominant, a dominant, and a
+cadential resolution, with sevenths, inversions, cadential six-four figures, and
+secondary dominants available at each step. The grammar emits a
+\emph{shape}: a key-independent Roman-numeral sequence together with its intended
+cadence label. Shapes are then transposed across keys to produce instances. This
+separation matters for the splits (Section~\ref{sec:splits}).
+
+The label convention follows the feature decomposition of the DCML harmony
+standard \cite{dcml} --- \texttt{numeral}, \texttt{form}, \texttt{figbass},
+\texttt{changes}, \texttt{relativeroot}. We adopt the notation and copy no DCML
+data. Cadences are coded \texttt{PAC}, \texttt{IAC}, \texttt{HC}, \texttt{DC},
+\texttt{PC}.
+
+\subsection{Verification by dual derivation}
+
+The grammar knows what it intended, but an intention is not a label. Every chord
+is independently re-derived along two paths that share no code:
+
+\begin{enumerate}
+  \item the Roman-numeral figure is realised through the \texttt{music21}
+    \cite{music21} Roman-numeral engine;
+  \item the printed chord symbol is parsed through the \texttt{music21}
+    chord-symbol parser.
+\end{enumerate}
+
+An item is retained only if both paths agree on pitch-class set and bass. This
+catches a class of error that a single derivation cannot: a figure that the
+grammar composed incorrectly will usually still round-trip through one engine,
+but will disagree with the other. On the released build, 27{,}480 of 27{,}480
+chords agree and zero instances were dropped. We report this as a gate rather
+than a result: it is a necessary condition, not evidence that the harmonic
+distribution is musically natural.
+
+\subsection{Splits}
+\label{sec:splits}
+
+The atomic unit is the shape, not the item. A shape hashes to exactly one split,
+so no transposition of a progression --- and no alternative framing of it ---
+can appear on both sides of the train/test boundary. Without this, a model could
+see \texttt{ii7 V7 IM7} in C at training time and be tested on the same shape in
+E$\flat$, or on the same progression rendered as pitch classes. Rows divide
+14{,}725 / 3{,}571 / 3{,}644 across train, validation, and test. The test split
+is the benchmark.
+
+\subsection{Key-identification gate}
+
+Gold keys are not always well defined. In C major, \texttt{I V7/V V} is
+note-identical to \texttt{IV V7 I} in G major, and the G reading is arguably the
+stronger one. Rather than adjudicate, we exclude: \texttt{key\_id} retains only
+cadence-terminated progressions of three or more chords whose notes contain both
+scale degree 4 and the leading tone, which pins the key uniquely. This costs
+coverage and buys defensible gold.
+
+\section{Evaluation protocol}
+
+Gold is deterministic, so scoring is exact string match after normalisation. No
+model judge is involved. For the Roman-numeral configurations we report
+\texttt{exact} (numerals and cadence both correct), \texttt{labels\_exact}
+(numerals correct, cadence ignored), \texttt{chord\_acc} (per-chord accuracy),
+and \texttt{cadence\_acc}. For \texttt{key\_id} we report \texttt{exact},
+\texttt{tonic\_acc}, and \texttt{mode\_acc}. Prompts are versioned; all results
+below use prompt v1, zero-shot, temperature 0. The harness depends only on the
+Python standard library and speaks to any OpenAI-compatible endpoint.
+
+We also report \texttt{parse\_failures}: responses from which no answer could be
+extracted. These are counted as incorrect, but reported separately, because a
+model that analyses correctly and formats disobediently is failing at something
+other than harmony, and the two should not be silently merged.
+
+\section{Results}
+
+\subsection{Zero-shot}
+
+Table~\ref{tab:main} reports the full test split, run 2026-07-11 via OpenRouter
+at a total API cost of approximately nine US dollars. Cells give exact match with
+per-chord accuracy in parentheses.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lcccc}
+\toprule
+model & \texttt{symbol\_to\_rn} & \texttt{notes\_to\_rn} & \texttt{pcset\_to\_rn} & \texttt{key\_id} \\
+ & $n{=}943$ & $n{=}943$ & $n{=}943$ & $n{=}815$ \\
+\midrule
+gpt-oss-120b (reasoning low) & \textbf{0.256} (0.885) & \textbf{0.155} (0.778) & 0.146 (0.724) & 0.778 \\
+Claude Sonnet 5              & 0.220 (0.863) & 0.066 (0.688) & \textbf{0.157} (0.732) & \textbf{0.823} \\
+Qwen3-235B-A22B-Instruct     & 0.193 (0.739) & 0.016 (0.380) & 0.002 (0.163) & 0.719 \\
+DeepSeek-V3.2                & 0.151 (0.634) & 0.005 (0.305) & 0.001 (0.150) & 0.661 \\
+Kimi-K2.5                    & 0.142 (0.562) & 0.007 (0.399) & 0.009 (0.205) & 0.788 \\
+Llama-3.3-70B                & 0.037 (0.466) & 0.004 (0.307) & 0.000 (0.194) & 0.471 \\
+\bottomrule
+\end{tabular}
+\caption{Zero-shot, temperature 0, prompt v1. Exact match, per-chord accuracy in
+parentheses. Kimi-K2.5 incurred 156, 28, and 141 parse failures on the three
+Roman-numeral configurations respectively; its scores understate its harmonic
+ability by an unquantified margin.}
+\label{tab:main}
+\end{table}
+
+Three observations. First, no model saturates the easiest configuration: the
+best exact match where chord quality is given outright is 0.256. Second, the drop
+from \texttt{symbol\_to\_rn} to \texttt{notes\_to\_rn} is severe for models that
+do not reason at inference time --- Qwen3, DeepSeek, Kimi, and Llama all fall
+below 0.02 --- while the two that do degrade far more slowly. This is the
+signature of chord-symbol lookup: a model that recognises \texttt{Dm7} as a token
+and retrieves \texttt{ii7} has nothing to retrieve once the token is gone.
+Third, the gap between exact match and per-chord accuracy is large everywhere.
+Llama-3.3-70B scores 0.004 exact on \texttt{notes\_to\_rn} while getting 30.75\%
+of individual chords right; sequence-level exact match is an unforgiving metric
+and per-chord accuracy is the better instrument for tracking partial competence.
+
+Claude Sonnet 5 is the one model that scores \emph{higher} on pitch classes
+(0.157) than on spelled notes (0.066). We do not have a mechanism for this and
+flag it as an anomaly worth investigating; the natural hypothesis is that
+note-spelling parsing, rather than harmonic reasoning, is its bottleneck on
+\texttt{notes\_to\_rn}, but we have not tested it.
+
+\subsection{Reasoning on versus off}
+
+Table~\ref{tab:reasoning} reports paired runs on fixed test subsets: identical
+prompts and items, reasoning disabled and enabled.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llcccccccc}
+\toprule
+& & \multicolumn{2}{c}{\texttt{symbol\_to\_rn}} & \multicolumn{2}{c}{\texttt{notes\_to\_rn}} & \multicolumn{2}{c}{\texttt{pcset\_to\_rn}} & \multicolumn{2}{c}{\texttt{key\_id}} \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-6}\cmidrule(lr){7-8}\cmidrule(lr){9-10}
+model & $n$ & off & on & off & on & off & on & off & on \\
+\midrule
+Kimi-K2.5     & 150 & 0.107 & 0.907 & 0.000 & 0.740 & 0.013 & 0.840 & 0.760 & 0.913 \\
+DeepSeek-V3.2 & 200 & 0.145 & 0.805 & 0.025 & 0.725 & 0.005 & 0.770 & 0.630 & 0.940 \\
+Claude Sonnet 5 & 100 & 0.220 & 0.590 & 0.090 & 0.520 & 0.140 & 0.660 & 0.860 & 0.960 \\
+gpt-oss-120b (low$\to$high) & 200 & 0.255 & 0.580 & 0.185 & 0.440 & 0.120 & 0.535 & 0.785 & 0.855 \\
+\bottomrule
+\end{tabular}
+\caption{Exact match, reasoning disabled versus enabled, on fixed subsets of the
+test split. Same prompts, same items.}
+\label{tab:reasoning}
+\end{table}
+
+The effect is large and consistent across every model and configuration. Kimi-K2.5
+moves from 0.000 to 0.740 on \texttt{notes\_to\_rn}; DeepSeek-V3.2 from 0.005 to
+0.770 on \texttt{pcset\_to\_rn}. With reasoning enabled, per-chord accuracy on the
+harder configurations reaches 0.89--0.98, so most of the remaining exact-match
+gap is cadence labelling and figured-bass detail rather than chord identification.
+
+We read this as a statement about what the benchmark measures rather than about
+which models are better. Without inference-time computation, the task is
+answerable only by recall, and the scores reflect how much of this material a
+model has memorised. With it, the task becomes the multi-step derivation it was
+designed to be. A benchmark that behaves this differently under the two regimes
+should always be reported with the regime attached.
+
+\section{Limitations}
+
+\textbf{The distribution is synthetic.} These are grammar outputs, not
+repertoire. Chord-transition statistics are those of the grammar, not of any
+composer, and results here do not license claims about performance on real
+scores. This is the benchmark's central limitation and no amount of verification
+addresses it.
+
+\textbf{Parse failures confound.} Kimi-K2.5's 156 parse failures on
+\texttt{symbol\_to\_rn} mean its 0.142 conflates format non-compliance with
+harmonic error. Every table in this paper counts unparseable output as wrong. A
+prompt-robustness study would separate them and we have not run one.
+
+\textbf{Single prompt, single run.} All results use prompt v1 at temperature 0,
+one run per cell. We report no variance and have not measured prompt
+sensitivity, which is known to be substantial for tasks of this shape.
+
+\textbf{Small ablation subsets.} The reasoning comparison uses 100--200 items per
+cell, chosen for cost. The effect sizes are large enough that the direction is
+not in question, but the point estimates are loose.
+
+\textbf{One planned comparison did not run.} A Qwen3-235B Thinking versus
+Instruct checkpoint pair was scoped and is absent from the results.
+
+\textbf{Cadence rules are strict.} PAC versus IAC is decided by inversion, since
+no soprano is notated. A half cadence must end on a root-position \texttt{V}
+triad, so a terminal \texttt{V7} is unlabelled; a deceptive cadence requires a
+root-position dominant, so \texttt{V65}$\to$\texttt{vi} does not count. These are
+defensible conventions, not the only ones, and a model applying a different
+convention consistently will be scored as wrong.
+
+\textbf{Harmony only.} No voice leading, melody, or rhythm. No modal mixture,
+Neapolitan sixths, or augmented sixths.
+
+\section{Conclusion}
+
+Holding harmonic content fixed while varying its encoding turns out to separate
+two things that benchmarks in this area normally merge: knowing music theory and
+doing it. Models that cannot do it still score respectably when chord symbols are
+supplied and collapse when they are withheld, and the collapse is a property of
+the decoding regime as much as of the model. The benchmark, its generator, its
+harness, and its verification report are released under CC-BY-4.0, and because
+nothing annotated is redistributed, they can be used without the licence
+friction that attaches to the standard corpora for this task.
+
+\begin{thebibliography}{99}
+\bibitem{chatmusician} R. Yuan et al. ChatMusician: Understanding and Generating
+Music Intrinsically with LLM. 2024. MusicTheoryBench.
+\bibitem{kruspe} A. Kruspe. Harmonic Reasoning in Large Language Models.
+arXiv:2409.05521, 2024.
+\bibitem{pond} T. Pond and I. Fujinaga. Teaching Large Language Models Music
+Theory. arXiv:2503.22853, 2025.
+\bibitem{augmentednet} G. Micchi, M. Gotham, M. Giraud. AugmentedNet: A Roman
+Numeral Analysis Network with Synthetic Training Examples and Additional Tonal
+Tasks. ISMIR, 2020.
+\bibitem{rnagnn} E. Karystinaios and G. Widmer. Roman Numeral Analysis with Graph
+Neural Networks. ISMIR, 2023.
+\bibitem{analysisgnn} AnalysisGNN: Unified Music Analysis with Graph Neural
+Networks. arXiv:2509.06654, 2025.
+\bibitem{wir} M. Gotham et al. When in Rome: a meta-corpus for functional
+harmonic analysis. \url{https://github.com/MarkGotham/When-in-Rome}
+\bibitem{dilemmadata} Dilemmadata: On the Interoperability of Heterogeneous Roman
+Numeral Datasets. arXiv:2606.31595, 2026.
+\bibitem{dcml} DCML harmony annotation standard.
+\url{https://github.com/DCMLab/standards}
+\bibitem{music21} M. Cuthbert and C. Ariza. music21: A Toolkit for
+Computer-Aided Musicology and Symbolic Music Data. ISMIR, 2010.
+\end{thebibliography}
+
+\end{document}
