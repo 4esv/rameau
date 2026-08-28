@@ -1,4 +1,4 @@
-"""Versioned zero-shot prompts for the Roman Numeral Harmony Benchmark.
+"""Versioned zero-shot prompts for the Rameau benchmark.
 
 Bump PROMPT_VERSION whenever any prompt text changes; scores are only
 comparable at equal prompt versions.

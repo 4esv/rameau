@@ -1,4 +1,4 @@
-"""Deterministic scorer for benchmark predictions. Stdlib only — no dependencies.
+"""Deterministic scorer for Rameau predictions. Stdlib only — no dependencies.
 
 Usage:
     python eval/score.py preds.jsonl --config notes_to_rn --split test

@@ -9,7 +9,7 @@ from pathlib import Path
 
 from huggingface_hub import HfApi
 
-REPO_ID = "4esv/roman-numeral-harmony-benchmark"
+REPO_ID = "4esv/rameau"
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
 IGNORE = [

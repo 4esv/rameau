@@ -1,4 +1,4 @@
-"""Query a model on a benchmark config and write predictions for score.py.
+"""Query a model on a Rameau config and write predictions for score.py.
 
 Works against any OpenAI-compatible chat-completions endpoint (ollama, vLLM,
 LM Studio, OpenAI, OpenRouter, ...). Stdlib only.
@@ -39,7 +39,7 @@ def load_records(config: str, split: str, data_dir: Path) -> list[dict]:
         from datasets import load_dataset
     except ImportError:
         raise SystemExit(f"{path} not found and `datasets` not installed")
-    return list(load_dataset("4esv/roman-numeral-harmony-benchmark", config, split=split))
+    return list(load_dataset("4esv/rameau", config, split=split))
 
 
 def complete(base_url: str, api_key: str, model: str, prompt: str,
